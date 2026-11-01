@@ -1,0 +1,12 @@
+{
+  "data_revisao": "2026-10-24",
+  "celulas_codigo_executadas": 35,
+  "figuras_incorporadas": 16,
+  "verificacoes_aprovadas": 16,
+  "resultados_numericos_reproduzidos": true,
+  "ambiente": {
+    "python": "3.12.14",
+    "sistema": "Linux"
+  },
+  "limites": "Execução em sessão IPython nova no Linux; Windows/Python 3.14 não executados nesta revisão."
+}

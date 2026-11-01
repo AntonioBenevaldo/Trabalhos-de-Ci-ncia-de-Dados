@@ -1,0 +1,1001 @@
+﻿ID_Cliente,Persona,Escore_Churn,Origem_Escore,Faixa_Exploratoria,Churn_Registrado,Valor_Mensal,Acao_Hipotetica
+GS-0994,"G1 muitos tickets, uso baixo, contrato curto",0.9918071047668608,Teste reservado,Alta,1,46.39,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0297,"G1 muitos tickets, uso baixo, contrato curto",0.991563351195184,Teste reservado,Alta,1,56.09,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0392,"G1 muitos tickets, uso baixo, contrato curto",0.9913448122931798,Teste reservado,Alta,1,35.49,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0214,"G1 muitos tickets, uso baixo, contrato curto",0.9913448122931798,Teste reservado,Alta,1,34.1,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0529,"G1 muitos tickets, uso baixo, contrato curto",0.9911979414893333,OOF treino com busca interna,Alta,1,49.45,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0553,"G1 muitos tickets, uso baixo, contrato curto",0.9910029137534366,OOF treino com busca interna,Alta,1,31.83,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0017,"G1 muitos tickets, uso baixo, contrato curto",0.9909421632215152,OOF treino com busca interna,Alta,1,31.89,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0509,"G1 muitos tickets, uso baixo, contrato curto",0.9908922684179797,OOF treino com busca interna,Alta,1,50.71,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0922,"G2 muitos tickets, uso baixo, contrato longo",0.9908567933263362,Teste reservado,Alta,1,45.97,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0765,"G2 muitos tickets, uso baixo, contrato longo",0.9908567933263362,Teste reservado,Alta,1,46.91,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0701,"G1 muitos tickets, uso baixo, contrato curto",0.9907916720581447,Teste reservado,Alta,1,55.23,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0938,"G1 muitos tickets, uso baixo, contrato curto",0.9906460646578884,OOF treino com busca interna,Alta,1,48.61,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0878,"G1 muitos tickets, uso baixo, contrato curto",0.9906242659516801,OOF treino com busca interna,Alta,1,44.8,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0726,"G1 muitos tickets, uso baixo, contrato curto",0.9906001305292317,OOF treino com busca interna,Alta,1,45.37,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0146,"G1 muitos tickets, uso baixo, contrato curto",0.99049529625626,OOF treino com busca interna,Alta,1,52.4,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0027,"G1 muitos tickets, uso baixo, contrato curto",0.9904787835805755,OOF treino com busca interna,Alta,1,49.86,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0525,"G1 muitos tickets, uso baixo, contrato curto",0.9904446343480257,OOF treino com busca interna,Alta,1,56.72,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0882,"G2 muitos tickets, uso baixo, contrato longo",0.9903897596517973,OOF treino com busca interna,Alta,1,42.03,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0973,"G1 muitos tickets, uso baixo, contrato curto",0.990374037483799,OOF treino com busca interna,Alta,1,35.11,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0122,"G2 muitos tickets, uso baixo, contrato longo",0.990341400754433,Teste reservado,Alta,1,40.31,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0679,"G1 muitos tickets, uso baixo, contrato curto",0.9902587860048881,OOF treino com busca interna,Alta,1,49.6,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0388,"G1 muitos tickets, uso baixo, contrato curto",0.9902550005725772,OOF treino com busca interna,Alta,1,45.28,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0182,"G1 muitos tickets, uso baixo, contrato curto",0.9901905321941156,OOF treino com busca interna,Alta,1,37.05,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0809,"G1 muitos tickets, uso baixo, contrato curto",0.9901905321941156,OOF treino com busca interna,Alta,1,35.77,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0401,"G1 muitos tickets, uso baixo, contrato curto",0.9901318447312693,OOF treino com busca interna,Alta,1,41.79,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0359,"G2 muitos tickets, uso baixo, contrato longo",0.99002113750243,Teste reservado,Alta,1,42.54,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0903,"G2 muitos tickets, uso baixo, contrato longo",0.9899865969936862,OOF treino com busca interna,Alta,1,36.91,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0974,"G1 muitos tickets, uso baixo, contrato curto",0.9899699331100329,OOF treino com busca interna,Alta,1,50.75,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0225,"G1 muitos tickets, uso baixo, contrato curto",0.9898520652640278,OOF treino com busca interna,Alta,1,34.08,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0614,"G1 muitos tickets, uso baixo, contrato curto",0.9898287949182724,OOF treino com busca interna,Alta,1,31.71,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0877,"G2 muitos tickets, uso baixo, contrato longo",0.9897855462632406,OOF treino com busca interna,Alta,1,47.73,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0680,"G1 muitos tickets, uso baixo, contrato curto",0.9897454474650824,Teste reservado,Alta,1,39.66,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0124,"G2 muitos tickets, uso baixo, contrato longo",0.9897231461015367,OOF treino com busca interna,Alta,1,43.47,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0715,"G1 muitos tickets, uso baixo, contrato curto",0.9897192982816914,OOF treino com busca interna,Alta,1,39.38,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0403,"G1 muitos tickets, uso baixo, contrato curto",0.9895930011630237,OOF treino com busca interna,Alta,1,50.78,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0909,"G1 muitos tickets, uso baixo, contrato curto",0.9895509130849305,OOF treino com busca interna,Alta,1,39.89,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0661,"G1 muitos tickets, uso baixo, contrato curto",0.9895465197785803,OOF treino com busca interna,Alta,1,51.37,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0876,"G1 muitos tickets, uso baixo, contrato curto",0.9895362499315543,OOF treino com busca interna,Alta,1,41.63,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0464,"G2 muitos tickets, uso baixo, contrato longo",0.9895271439767166,OOF treino com busca interna,Alta,1,38.51,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0605,"G2 muitos tickets, uso baixo, contrato longo",0.9895253431511507,OOF treino com busca interna,Alta,1,32.3,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0565,"G2 muitos tickets, uso baixo, contrato longo",0.9894548391888118,OOF treino com busca interna,Alta,1,50.75,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0668,"G1 muitos tickets, uso baixo, contrato curto",0.9894474245216618,Teste reservado,Alta,1,44.67,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0064,"G1 muitos tickets, uso baixo, contrato curto",0.9894410088477439,Teste reservado,Alta,1,54.54,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0389,"G1 muitos tickets, uso baixo, contrato curto",0.9894254934278097,OOF treino com busca interna,Alta,1,36.82,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0103,"G1 muitos tickets, uso baixo, contrato curto",0.9894254934278097,OOF treino com busca interna,Alta,1,43.43,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0672,"G2 muitos tickets, uso baixo, contrato longo",0.989383613038065,OOF treino com busca interna,Alta,1,45.34,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0857,"G2 muitos tickets, uso baixo, contrato longo",0.9893270077420842,OOF treino com busca interna,Alta,1,53.32,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0576,"G2 muitos tickets, uso baixo, contrato longo",0.9893148734707017,OOF treino com busca interna,Alta,1,50.97,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0393,"G1 muitos tickets, uso baixo, contrato curto",0.9893057762965379,OOF treino com busca interna,Alta,1,53.29,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0652,"G1 muitos tickets, uso baixo, contrato curto",0.9892734259295742,OOF treino com busca interna,Alta,1,42.55,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0920,"G2 muitos tickets, uso baixo, contrato longo",0.989245843495797,OOF treino com busca interna,Alta,1,50.6,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0237,"G1 muitos tickets, uso baixo, contrato curto",0.989169123485189,OOF treino com busca interna,Alta,1,49.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0846,"G1 muitos tickets, uso baixo, contrato curto",0.9891646537271095,OOF treino com busca interna,Alta,1,47.95,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0087,"G1 muitos tickets, uso baixo, contrato curto",0.9891621321007025,OOF treino com busca interna,Alta,1,45.08,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0014,"G2 muitos tickets, uso baixo, contrato longo",0.9891448355176057,OOF treino com busca interna,Alta,1,51.83,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0031,"G2 muitos tickets, uso baixo, contrato longo",0.9890445981537396,OOF treino com busca interna,Alta,1,41.67,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0842,"G1 muitos tickets, uso baixo, contrato curto",0.9890232216920735,OOF treino com busca interna,Alta,1,46.41,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0914,"G1 muitos tickets, uso baixo, contrato curto",0.9890053946823258,Teste reservado,Alta,1,51.82,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0125,"G2 muitos tickets, uso baixo, contrato longo",0.9890003173734816,OOF treino com busca interna,Alta,1,36.64,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0521,"G1 muitos tickets, uso baixo, contrato curto",0.9889795057803928,OOF treino com busca interna,Alta,1,41.83,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0066,"G1 muitos tickets, uso baixo, contrato curto",0.9889618739643815,Teste reservado,Alta,1,55.29,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0495,"G2 muitos tickets, uso baixo, contrato longo",0.9889417730085004,OOF treino com busca interna,Alta,1,52.65,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0318,"G2 muitos tickets, uso baixo, contrato longo",0.9888926239127854,OOF treino com busca interna,Alta,1,59.03,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0574,"G2 muitos tickets, uso baixo, contrato longo",0.9888436566123617,OOF treino com busca interna,Alta,1,44.87,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0995,"G1 muitos tickets, uso baixo, contrato curto",0.9888407891083805,OOF treino com busca interna,Alta,1,58.87,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0489,"G1 muitos tickets, uso baixo, contrato curto",0.9888317622160357,OOF treino com busca interna,Alta,1,31.27,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0946,"G2 muitos tickets, uso baixo, contrato longo",0.9888216609943195,OOF treino com busca interna,Alta,1,38.99,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0274,"G1 muitos tickets, uso baixo, contrato curto",0.9886826958261046,OOF treino com busca interna,Alta,1,47.81,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0260,"G2 muitos tickets, uso baixo, contrato longo",0.9886294800563726,OOF treino com busca interna,Alta,1,40.57,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0748,"G2 muitos tickets, uso baixo, contrato longo",0.988603850390311,Teste reservado,Alta,1,47.02,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0760,"G1 muitos tickets, uso baixo, contrato curto",0.9885678917076938,OOF treino com busca interna,Alta,1,31.35,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0169,"G2 muitos tickets, uso baixo, contrato longo",0.9885587585989816,Teste reservado,Alta,1,30.66,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0542,"G2 muitos tickets, uso baixo, contrato longo",0.9885587585989816,Teste reservado,Alta,1,30.88,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0344,"G2 muitos tickets, uso baixo, contrato longo",0.9885587585989816,Teste reservado,Alta,1,30.54,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0541,"G1 muitos tickets, uso baixo, contrato curto",0.9885032790142112,OOF treino com busca interna,Alta,1,33.84,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0053,"G1 muitos tickets, uso baixo, contrato curto",0.988476283580065,OOF treino com busca interna,Alta,1,56.72,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0692,"G2 muitos tickets, uso baixo, contrato longo",0.9884046758044893,OOF treino com busca interna,Alta,1,37.36,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0695,"G1 muitos tickets, uso baixo, contrato curto",0.9883943690448727,OOF treino com busca interna,Alta,1,34.91,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0830,"G2 muitos tickets, uso baixo, contrato longo",0.9883942052401176,OOF treino com busca interna,Alta,1,33.56,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0039,"G1 muitos tickets, uso baixo, contrato curto",0.9883561463746917,OOF treino com busca interna,Alta,1,36.87,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0786,"G1 muitos tickets, uso baixo, contrato curto",0.9883120803631605,OOF treino com busca interna,Alta,1,41.1,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0229,"G1 muitos tickets, uso baixo, contrato curto",0.9883080644990613,OOF treino com busca interna,Alta,1,35.05,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0493,"G2 muitos tickets, uso baixo, contrato longo",0.9882195087271524,Teste reservado,Alta,1,52.39,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0775,"G2 muitos tickets, uso baixo, contrato longo",0.9882170834566448,OOF treino com busca interna,Alta,1,54.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0007,"G2 muitos tickets, uso baixo, contrato longo",0.988188997077534,OOF treino com busca interna,Alta,1,44.05,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0423,"G2 muitos tickets, uso baixo, contrato longo",0.9881800913501252,Teste reservado,Alta,1,41.08,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0377,"G1 muitos tickets, uso baixo, contrato curto",0.9881350577694638,OOF treino com busca interna,Alta,1,42.43,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0148,"G2 muitos tickets, uso baixo, contrato longo",0.9881009547579304,OOF treino com busca interna,Alta,1,56.84,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0613,"G1 muitos tickets, uso baixo, contrato curto",0.9880834303021132,Teste reservado,Alta,1,32.35,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0817,"G1 muitos tickets, uso baixo, contrato curto",0.9879881624224149,OOF treino com busca interna,Alta,1,40.45,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0457,"G1 muitos tickets, uso baixo, contrato curto",0.9879465462125219,OOF treino com busca interna,Alta,1,39.95,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0564,"G1 muitos tickets, uso baixo, contrato curto",0.9878925415651633,OOF treino com busca interna,Alta,1,38.65,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0637,"G1 muitos tickets, uso baixo, contrato curto",0.9878784383632188,OOF treino com busca interna,Alta,1,55.95,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0900,"G1 muitos tickets, uso baixo, contrato curto",0.9878735469699603,OOF treino com busca interna,Alta,1,45.47,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0738,"G1 muitos tickets, uso baixo, contrato curto",0.9878155332982985,Teste reservado,Alta,1,43.21,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0094,"G1 muitos tickets, uso baixo, contrato curto",0.9875875580737422,OOF treino com busca interna,Alta,1,57.57,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0206,"G1 muitos tickets, uso baixo, contrato curto",0.9874977689809394,OOF treino com busca interna,Alta,1,37.94,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0143,"G1 muitos tickets, uso baixo, contrato curto",0.9874237747943196,OOF treino com busca interna,Alta,1,44.97,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0779,"G1 muitos tickets, uso baixo, contrato curto",0.9874125809628239,Teste reservado,Alta,1,39.64,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0628,"G2 muitos tickets, uso baixo, contrato longo",0.9873571439360228,Teste reservado,Alta,1,59.79,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0663,"G1 muitos tickets, uso baixo, contrato curto",0.9873091625733068,OOF treino com busca interna,Alta,1,35.29,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0099,"G1 muitos tickets, uso baixo, contrato curto",0.9872908565129257,OOF treino com busca interna,Alta,1,42.62,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0655,"G1 muitos tickets, uso baixo, contrato curto",0.9872558018571199,OOF treino com busca interna,Alta,1,57.27,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0491,"G1 muitos tickets, uso baixo, contrato curto",0.9870397907764406,Teste reservado,Alta,1,59.1,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0677,"G1 muitos tickets, uso baixo, contrato curto",0.9869448687331703,OOF treino com busca interna,Alta,1,58.98,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0502,"G2 muitos tickets, uso baixo, contrato longo",0.9869028970224718,OOF treino com busca interna,Alta,1,43.28,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0009,"G1 muitos tickets, uso baixo, contrato curto",0.9868937481761932,OOF treino com busca interna,Alta,1,40.37,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0826,"G1 muitos tickets, uso baixo, contrato curto",0.9868583894035473,OOF treino com busca interna,Alta,1,48.21,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0684,"G1 muitos tickets, uso baixo, contrato curto",0.986838000822889,OOF treino com busca interna,Alta,1,43.51,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0151,"G2 muitos tickets, uso baixo, contrato longo",0.9867976915730449,OOF treino com busca interna,Alta,1,31.0,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0230,"G1 muitos tickets, uso baixo, contrato curto",0.9867800671508552,OOF treino com busca interna,Alta,1,38.07,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0768,"G1 muitos tickets, uso baixo, contrato curto",0.9867059772491423,OOF treino com busca interna,Alta,1,42.02,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0767,"G2 muitos tickets, uso baixo, contrato longo",0.9866996628282818,Teste reservado,Alta,1,56.26,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0414,"G1 muitos tickets, uso baixo, contrato curto",0.9866431171919884,OOF treino com busca interna,Alta,1,33.79,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0871,"G2 muitos tickets, uso baixo, contrato longo",0.9865140900285934,OOF treino com busca interna,Alta,1,30.61,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0140,"G1 muitos tickets, uso baixo, contrato curto",0.9864766936028015,OOF treino com busca interna,Alta,1,42.34,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0797,"G2 muitos tickets, uso baixo, contrato longo",0.9864085756335363,Teste reservado,Alta,1,30.67,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0559,"G1 muitos tickets, uso baixo, contrato curto",0.9863567130691033,OOF treino com busca interna,Alta,1,30.25,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0730,"G1 muitos tickets, uso baixo, contrato curto",0.9862837772600562,Teste reservado,Alta,1,30.8,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0205,"G1 muitos tickets, uso baixo, contrato curto",0.9860605868679707,OOF treino com busca interna,Alta,1,47.61,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0750,"G1 muitos tickets, uso baixo, contrato curto",0.9860111542482795,OOF treino com busca interna,Alta,1,57.83,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0142,"G1 muitos tickets, uso baixo, contrato curto",0.9860058631430317,OOF treino com busca interna,Alta,1,59.81,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0649,"G1 muitos tickets, uso baixo, contrato curto",0.9859308345972542,OOF treino com busca interna,Alta,1,44.5,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0917,"G1 muitos tickets, uso baixo, contrato curto",0.9859044684208269,OOF treino com busca interna,Alta,1,46.77,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0040,"G1 muitos tickets, uso baixo, contrato curto",0.9858885286430401,OOF treino com busca interna,Alta,1,56.89,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0370,"G1 muitos tickets, uso baixo, contrato curto",0.9857568064469444,OOF treino com busca interna,Alta,1,42.73,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0772,"G1 muitos tickets, uso baixo, contrato curto",0.9857400836333636,OOF treino com busca interna,Alta,1,52.77,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0134,"G1 muitos tickets, uso baixo, contrato curto",0.9853695867295174,OOF treino com busca interna,Alta,1,48.87,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0718,"G2 muitos tickets, uso baixo, contrato longo",0.9852773924028485,Teste reservado,Alta,1,34.35,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0647,"G2 muitos tickets, uso baixo, contrato longo",0.98522440260778,OOF treino com busca interna,Alta,1,43.06,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0836,"G2 muitos tickets, uso baixo, contrato longo",0.9852196153014524,OOF treino com busca interna,Alta,1,33.11,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0616,"G2 muitos tickets, uso baixo, contrato longo",0.9852196153014524,OOF treino com busca interna,Alta,1,34.69,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0259,"G2 muitos tickets, uso baixo, contrato longo",0.9851588335506365,OOF treino com busca interna,Alta,1,38.56,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0690,"G1 muitos tickets, uso baixo, contrato curto",0.9851170151092579,OOF treino com busca interna,Alta,1,54.77,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0025,"G1 muitos tickets, uso baixo, contrato curto",0.9849786622789375,OOF treino com busca interna,Alta,1,34.83,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0400,"G1 muitos tickets, uso baixo, contrato curto",0.9848934724831159,OOF treino com busca interna,Alta,1,35.12,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0858,"G2 muitos tickets, uso baixo, contrato longo",0.9848641259786077,OOF treino com busca interna,Alta,1,38.14,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0382,"G1 muitos tickets, uso baixo, contrato curto",0.9847218466764797,OOF treino com busca interna,Alta,1,34.91,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0575,"G1 muitos tickets, uso baixo, contrato curto",0.984485266816769,OOF treino com busca interna,Alta,1,48.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0863,"G2 muitos tickets, uso baixo, contrato longo",0.9843556597671331,OOF treino com busca interna,Alta,1,48.62,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0781,"G1 muitos tickets, uso baixo, contrato curto",0.9843487842329149,Teste reservado,Alta,1,41.79,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0443,"G2 muitos tickets, uso baixo, contrato longo",0.984330883045701,OOF treino com busca interna,Alta,1,55.42,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0289,"G2 muitos tickets, uso baixo, contrato longo",0.9843160836641635,OOF treino com busca interna,Alta,1,40.73,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0165,"G1 muitos tickets, uso baixo, contrato curto",0.9842715981861071,OOF treino com busca interna,Alta,1,41.1,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0708,"G1 muitos tickets, uso baixo, contrato curto",0.9842460579444784,OOF treino com busca interna,Alta,1,31.61,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0472,"G2 muitos tickets, uso baixo, contrato longo",0.9841861724428789,OOF treino com busca interna,Alta,1,33.11,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0965,"G2 muitos tickets, uso baixo, contrato longo",0.9840819338842778,OOF treino com busca interna,Alta,1,41.32,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0052,"G2 muitos tickets, uso baixo, contrato longo",0.9837959397243661,OOF treino com busca interna,Alta,1,45.9,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0320,"G2 muitos tickets, uso baixo, contrato longo",0.9837420325165189,OOF treino com busca interna,Alta,1,44.13,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0538,"G1 muitos tickets, uso baixo, contrato curto",0.9836788155675827,OOF treino com busca interna,Alta,1,55.24,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0117,"G1 muitos tickets, uso baixo, contrato curto",0.9836708242073531,OOF treino com busca interna,Alta,1,39.9,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0505,"G1 muitos tickets, uso baixo, contrato curto",0.9835074830843991,OOF treino com busca interna,Alta,1,42.69,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0468,"G1 muitos tickets, uso baixo, contrato curto",0.9834435582575578,OOF treino com busca interna,Alta,1,37.69,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0728,"G2 muitos tickets, uso baixo, contrato longo",0.9831442983016353,OOF treino com busca interna,Alta,1,49.91,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0450,"G1 muitos tickets, uso baixo, contrato curto",0.9831178666038214,OOF treino com busca interna,Alta,1,52.48,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0404,"G1 muitos tickets, uso baixo, contrato curto",0.982819328670374,OOF treino com busca interna,Alta,1,34.52,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0232,"G2 muitos tickets, uso baixo, contrato longo",0.9825202625773907,OOF treino com busca interna,Alta,1,57.33,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0106,"G2 muitos tickets, uso baixo, contrato longo",0.9824503058733639,OOF treino com busca interna,Alta,1,55.07,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0885,"G1 muitos tickets, uso baixo, contrato curto",0.9823023699458439,OOF treino com busca interna,Alta,1,50.67,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0617,"G2 muitos tickets, uso baixo, contrato longo",0.9821471921861875,OOF treino com busca interna,Alta,1,56.05,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0678,"G1 muitos tickets, uso baixo, contrato curto",0.9820732362350534,OOF treino com busca interna,Alta,1,37.64,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0147,"G2 muitos tickets, uso baixo, contrato longo",0.9817405335001287,OOF treino com busca interna,Alta,1,36.2,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0568,"G1 muitos tickets, uso baixo, contrato curto",0.9813301559935186,OOF treino com busca interna,Alta,1,31.09,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0203,"G1 muitos tickets, uso baixo, contrato curto",0.9812374796037237,OOF treino com busca interna,Alta,1,37.68,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0234,"G1 muitos tickets, uso baixo, contrato curto",0.9812065883852507,OOF treino com busca interna,Alta,1,47.2,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0175,"G3 muitos tickets, uso alto, contrato curto",0.9811310376165795,Teste reservado,Alta,1,36.83,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0077,"G1 muitos tickets, uso baixo, contrato curto",0.9811045689942255,OOF treino com busca interna,Alta,1,37.45,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0463,"G2 muitos tickets, uso baixo, contrato longo",0.9811008098548533,OOF treino com busca interna,Alta,1,30.09,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0945,"G2 muitos tickets, uso baixo, contrato longo",0.9809523828656204,OOF treino com busca interna,Alta,1,30.98,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0747,"G1 muitos tickets, uso baixo, contrato curto",0.9807646851052317,Teste reservado,Alta,1,55.97,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0325,"G2 muitos tickets, uso baixo, contrato longo",0.9806632046619127,OOF treino com busca interna,Alta,1,31.01,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0665,"G2 muitos tickets, uso baixo, contrato longo",0.9806388034580605,OOF treino com busca interna,Alta,1,59.04,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0030,"G2 muitos tickets, uso baixo, contrato longo",0.9803110513755575,OOF treino com busca interna,Alta,1,56.22,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0756,"G1 muitos tickets, uso baixo, contrato curto",0.9798791880150438,OOF treino com busca interna,Alta,1,49.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0977,"G1 muitos tickets, uso baixo, contrato curto",0.979543457170251,OOF treino com busca interna,Alta,1,49.13,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0634,"G2 muitos tickets, uso baixo, contrato longo",0.9795311045627482,Teste reservado,Alta,1,30.82,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0852,"G2 muitos tickets, uso baixo, contrato longo",0.9795311045627482,Teste reservado,Alta,1,42.23,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0396,"G2 muitos tickets, uso baixo, contrato longo",0.9794790255171819,OOF treino com busca interna,Alta,1,58.97,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0928,"G2 muitos tickets, uso baixo, contrato longo",0.9792522395602281,OOF treino com busca interna,Alta,1,53.76,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0405,"G2 muitos tickets, uso baixo, contrato longo",0.9790871056300433,OOF treino com busca interna,Alta,0,54.37,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0952,"G2 muitos tickets, uso baixo, contrato longo",0.9789686454168252,Teste reservado,Alta,1,39.07,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0693,"G2 muitos tickets, uso baixo, contrato longo",0.9788600412397355,Teste reservado,Alta,1,48.41,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0947,"G1 muitos tickets, uso baixo, contrato curto",0.9787651022120274,OOF treino com busca interna,Alta,1,37.79,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0769,"G2 muitos tickets, uso baixo, contrato longo",0.9786074959746659,OOF treino com busca interna,Alta,1,39.71,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0676,"G3 muitos tickets, uso alto, contrato curto",0.9785985339551295,OOF treino com busca interna,Alta,1,41.63,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0300,"G2 muitos tickets, uso baixo, contrato longo",0.9785755162211118,OOF treino com busca interna,Alta,1,49.66,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0183,"G2 muitos tickets, uso baixo, contrato longo",0.9784165734195982,OOF treino com busca interna,Alta,1,32.88,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0527,"G2 muitos tickets, uso baixo, contrato longo",0.9782795510233084,Teste reservado,Alta,1,36.29,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0480,"G2 muitos tickets, uso baixo, contrato longo",0.9782112332000155,OOF treino com busca interna,Alta,1,58.02,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0834,"G1 muitos tickets, uso baixo, contrato curto",0.977859129816617,OOF treino com busca interna,Alta,1,45.65,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0118,"G2 muitos tickets, uso baixo, contrato longo",0.9777089476843999,OOF treino com busca interna,Alta,1,41.85,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0135,"G1 muitos tickets, uso baixo, contrato curto",0.9771546163632117,OOF treino com busca interna,Alta,1,30.29,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0486,"G1 muitos tickets, uso baixo, contrato curto",0.9771476598147562,OOF treino com busca interna,Alta,1,47.37,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0137,"G1 muitos tickets, uso baixo, contrato curto",0.9767685492761209,OOF treino com busca interna,Alta,1,35.24,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0003,"G3 muitos tickets, uso alto, contrato curto",0.9764841222408394,OOF treino com busca interna,Alta,1,37.54,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0272,"G2 muitos tickets, uso baixo, contrato longo",0.9764052351840414,OOF treino com busca interna,Alta,1,31.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0252,"G2 muitos tickets, uso baixo, contrato longo",0.9760751801928134,OOF treino com busca interna,Alta,1,31.31,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0184,"G1 muitos tickets, uso baixo, contrato curto",0.9760688503511747,Teste reservado,Alta,1,37.2,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0558,"G1 muitos tickets, uso baixo, contrato curto",0.9759963148033386,OOF treino com busca interna,Alta,1,43.56,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0323,"G1 muitos tickets, uso baixo, contrato curto",0.9758979867097904,OOF treino com busca interna,Alta,1,39.47,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0074,"G3 muitos tickets, uso alto, contrato curto",0.9756754227244735,OOF treino com busca interna,Alta,1,49.13,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0607,"G2 muitos tickets, uso baixo, contrato longo",0.9756639959143236,OOF treino com busca interna,Alta,1,46.33,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0643,"G1 muitos tickets, uso baixo, contrato curto",0.975457738359168,OOF treino com busca interna,Alta,1,59.53,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0664,"G3 muitos tickets, uso alto, contrato curto",0.9752564958949325,Teste reservado,Alta,1,37.03,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0281,"G3 muitos tickets, uso alto, contrato curto",0.9748041709422308,OOF treino com busca interna,Alta,1,50.55,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0013,"G2 muitos tickets, uso baixo, contrato longo",0.9746386822129126,OOF treino com busca interna,Alta,1,33.63,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0084,"G3 muitos tickets, uso alto, contrato curto",0.9745329753591243,Teste reservado,Alta,1,58.32,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0021,"G2 muitos tickets, uso baixo, contrato longo",0.9745301850770176,OOF treino com busca interna,Alta,1,34.09,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0526,"G1 muitos tickets, uso baixo, contrato curto",0.9743556362629048,OOF treino com busca interna,Alta,1,36.8,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0636,"G1 muitos tickets, uso baixo, contrato curto",0.9741644417103974,OOF treino com busca interna,Alta,1,43.78,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0436,"G1 muitos tickets, uso baixo, contrato curto",0.973705933360837,Teste reservado,Alta,1,40.33,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0483,"G1 muitos tickets, uso baixo, contrato curto",0.973705933360837,Teste reservado,Alta,1,38.93,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0771,"G2 muitos tickets, uso baixo, contrato longo",0.9735917445345202,Teste reservado,Alta,1,54.14,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0413,"G2 muitos tickets, uso baixo, contrato longo",0.9735410382572676,Teste reservado,Alta,1,37.87,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0101,"G3 muitos tickets, uso alto, contrato curto",0.9734709370586794,OOF treino com busca interna,Alta,1,57.93,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0098,"G2 muitos tickets, uso baixo, contrato longo",0.9733248181284854,OOF treino com busca interna,Alta,1,48.1,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0982,"G2 muitos tickets, uso baixo, contrato longo",0.9732401958088512,OOF treino com busca interna,Alta,1,44.51,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0924,"G3 muitos tickets, uso alto, contrato curto",0.9727344465813507,OOF treino com busca interna,Alta,1,43.41,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0438,"G3 muitos tickets, uso alto, contrato curto",0.972562144792021,OOF treino com busca interna,Alta,1,46.87,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0961,"G1 muitos tickets, uso baixo, contrato curto",0.9725326099192938,Teste reservado,Alta,1,36.16,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0341,"G2 muitos tickets, uso baixo, contrato longo",0.9724397894410967,Teste reservado,Alta,1,36.89,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0114,"G3 muitos tickets, uso alto, contrato curto",0.9722734452100041,OOF treino com busca interna,Alta,1,39.96,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0198,"G1 muitos tickets, uso baixo, contrato curto",0.9720084129683949,Teste reservado,Alta,1,47.39,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0650,"G3 muitos tickets, uso alto, contrato curto",0.9714714459481748,OOF treino com busca interna,Alta,1,56.1,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0172,"G2 muitos tickets, uso baixo, contrato longo",0.9713238084862732,OOF treino com busca interna,Alta,1,49.67,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0883,"G2 muitos tickets, uso baixo, contrato longo",0.9708132459950554,OOF treino com busca interna,Alta,1,42.75,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0352,"G2 muitos tickets, uso baixo, contrato longo",0.9707180164623387,Teste reservado,Alta,0,41.96,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0532,"G3 muitos tickets, uso alto, contrato curto",0.970605996838796,Teste reservado,Alta,1,44.1,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0815,"G2 muitos tickets, uso baixo, contrato longo",0.970513813069937,OOF treino com busca interna,Alta,1,31.71,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0646,"G2 muitos tickets, uso baixo, contrato longo",0.9700102670011145,OOF treino com busca interna,Alta,1,47.26,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0867,"G2 muitos tickets, uso baixo, contrato longo",0.9695679704341257,OOF treino com busca interna,Alta,1,52.01,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0058,"G3 muitos tickets, uso alto, contrato curto",0.9693276388378034,OOF treino com busca interna,Alta,1,52.22,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0012,"G2 muitos tickets, uso baixo, contrato longo",0.9690054365115573,OOF treino com busca interna,Alta,1,58.85,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0594,"G3 muitos tickets, uso alto, contrato curto",0.9688170600631538,Teste reservado,Alta,1,51.09,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0557,"G2 muitos tickets, uso baixo, contrato longo",0.9687123731015259,OOF treino com busca interna,Alta,1,39.21,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0640,"G2 muitos tickets, uso baixo, contrato longo",0.9685785097520916,Teste reservado,Alta,1,42.66,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0195,"G3 muitos tickets, uso alto, contrato curto",0.9680200654641052,OOF treino com busca interna,Alta,1,36.14,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0349,"G3 muitos tickets, uso alto, contrato curto",0.967685596748402,OOF treino com busca interna,Alta,1,59.84,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0808,"G3 muitos tickets, uso alto, contrato curto",0.9675695287142714,OOF treino com busca interna,Alta,1,30.45,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0602,"G1 muitos tickets, uso baixo, contrato curto",0.9673136616684934,OOF treino com busca interna,Alta,1,53.95,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0126,"G3 muitos tickets, uso alto, contrato curto",0.9672809393433894,OOF treino com busca interna,Alta,1,43.47,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0368,"G2 muitos tickets, uso baixo, contrato longo",0.9665457578498556,OOF treino com busca interna,Alta,1,30.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0869,"G1 muitos tickets, uso baixo, contrato curto",0.9663422670936485,OOF treino com busca interna,Alta,1,36.4,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0873,"G2 muitos tickets, uso baixo, contrato longo",0.9659334901594713,OOF treino com busca interna,Alta,1,48.11,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0908,"G1 muitos tickets, uso baixo, contrato curto",0.9651035650985297,OOF treino com busca interna,Alta,1,39.63,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0469,"G2 muitos tickets, uso baixo, contrato longo",0.9650655415870624,OOF treino com busca interna,Alta,1,48.92,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0823,"G3 muitos tickets, uso alto, contrato curto",0.9647974931910753,OOF treino com busca interna,Alta,1,53.99,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0916,"G2 muitos tickets, uso baixo, contrato longo",0.9644249440819596,OOF treino com busca interna,Alta,1,31.7,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0129,"G3 muitos tickets, uso alto, contrato curto",0.9635642496688166,OOF treino com busca interna,Alta,1,44.85,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0897,"G3 muitos tickets, uso alto, contrato curto",0.9630672652836408,OOF treino com busca interna,Alta,1,36.7,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0395,"G3 muitos tickets, uso alto, contrato curto",0.9611518676278141,OOF treino com busca interna,Alta,1,31.64,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0316,"G2 muitos tickets, uso baixo, contrato longo",0.9605147491597029,OOF treino com busca interna,Alta,1,38.82,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0319,"G3 muitos tickets, uso alto, contrato curto",0.9604758200640823,Teste reservado,Alta,1,58.23,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0034,"G3 muitos tickets, uso alto, contrato curto",0.9603472974927412,Teste reservado,Alta,1,41.21,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0501,"G2 muitos tickets, uso baixo, contrato longo",0.9600542665829478,OOF treino com busca interna,Alta,1,50.4,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0583,"G2 muitos tickets, uso baixo, contrato longo",0.9600299556846272,OOF treino com busca interna,Alta,1,30.9,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0264,"G1 muitos tickets, uso baixo, contrato curto",0.9597593598224085,OOF treino com busca interna,Alta,1,44.18,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0861,"G2 muitos tickets, uso baixo, contrato longo",0.9596742712901527,OOF treino com busca interna,Alta,1,49.93,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0011,"G1 muitos tickets, uso baixo, contrato curto",0.9596092935683291,OOF treino com busca interna,Alta,1,54.82,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0991,"G2 muitos tickets, uso baixo, contrato longo",0.959339944200241,OOF treino com busca interna,Alta,1,30.67,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0918,"G2 muitos tickets, uso baixo, contrato longo",0.959298258479778,OOF treino com busca interna,Alta,1,58.63,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0434,"G3 muitos tickets, uso alto, contrato curto",0.9583957988832008,Teste reservado,Alta,1,47.67,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0153,"G3 muitos tickets, uso alto, contrato curto",0.9583643497185478,OOF treino com busca interna,Alta,1,46.85,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-1000,"G3 muitos tickets, uso alto, contrato curto",0.9583299489031902,OOF treino com busca interna,Alta,1,33.07,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0484,"G2 muitos tickets, uso baixo, contrato longo",0.958316563657178,OOF treino com busca interna,Alta,1,51.15,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0428,"G3 muitos tickets, uso alto, contrato curto",0.9581200506148307,OOF treino com busca interna,Alta,1,36.51,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0308,"G3 muitos tickets, uso alto, contrato curto",0.9576921710139582,Teste reservado,Alta,1,31.08,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0448,"G2 muitos tickets, uso baixo, contrato longo",0.9574801250039395,OOF treino com busca interna,Alta,1,50.3,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0862,"G3 muitos tickets, uso alto, contrato curto",0.9568973064360413,Teste reservado,Alta,1,32.77,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0204,"G2 muitos tickets, uso baixo, contrato longo",0.956530219465002,OOF treino com busca interna,Alta,1,41.29,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0567,"G4 poucos tickets, uso baixo, contrato longo",0.9562984754925457,OOF treino com busca interna,Alta,1,53.3,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0069,"G3 muitos tickets, uso alto, contrato curto",0.9558981086807374,OOF treino com busca interna,Alta,1,53.82,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0452,"G1 muitos tickets, uso baixo, contrato curto",0.9557405298679432,OOF treino com busca interna,Alta,1,56.33,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0660,"G2 muitos tickets, uso baixo, contrato longo",0.9553628201744453,OOF treino com busca interna,Alta,1,33.85,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0465,"G1 muitos tickets, uso baixo, contrato curto",0.9552305089067514,OOF treino com busca interna,Alta,1,48.41,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0504,"G3 muitos tickets, uso alto, contrato curto",0.9541213561561794,OOF treino com busca interna,Alta,1,59.81,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0934,"G2 muitos tickets, uso baixo, contrato longo",0.9539266290810274,OOF treino com busca interna,Alta,1,57.71,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0498,"G1 muitos tickets, uso baixo, contrato curto",0.953358387716562,OOF treino com busca interna,Alta,1,39.61,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0268,"G1 muitos tickets, uso baixo, contrato curto",0.9532881855394353,OOF treino com busca interna,Alta,1,36.35,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0496,"G3 muitos tickets, uso alto, contrato curto",0.9531646569393782,OOF treino com busca interna,Alta,1,30.64,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0530,"G3 muitos tickets, uso alto, contrato curto",0.9512268795155837,OOF treino com busca interna,Alta,1,40.96,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0822,"G2 muitos tickets, uso baixo, contrato longo",0.9509992387368412,OOF treino com busca interna,Alta,1,39.12,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0691,"G1 muitos tickets, uso baixo, contrato curto",0.9508168196558855,OOF treino com busca interna,Alta,1,42.83,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0749,"G2 muitos tickets, uso baixo, contrato longo",0.9505944157270324,OOF treino com busca interna,Alta,1,30.81,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0906,"G4 poucos tickets, uso baixo, contrato longo",0.9502150570343825,OOF treino com busca interna,Alta,1,49.43,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0551,"G4 poucos tickets, uso baixo, contrato longo",0.949868347193001,OOF treino com busca interna,Alta,1,35.92,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0954,"G1 muitos tickets, uso baixo, contrato curto",0.9498515743461549,OOF treino com busca interna,Alta,1,43.32,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0625,"G1 muitos tickets, uso baixo, contrato curto",0.9496337733674982,OOF treino com busca interna,Alta,1,46.56,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0727,"G3 muitos tickets, uso alto, contrato curto",0.9483682618144111,OOF treino com busca interna,Alta,1,44.57,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0683,"G2 muitos tickets, uso baixo, contrato longo",0.9462968458036497,OOF treino com busca interna,Alta,1,58.99,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0899,"G2 muitos tickets, uso baixo, contrato longo",0.9458731749149171,OOF treino com busca interna,Alta,1,31.98,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0226,"G1 muitos tickets, uso baixo, contrato curto",0.9456261854333461,OOF treino com busca interna,Alta,1,54.95,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0552,"G3 muitos tickets, uso alto, contrato curto",0.9452424000028002,OOF treino com busca interna,Alta,1,44.65,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0131,"G2 muitos tickets, uso baixo, contrato longo",0.9443784219287962,OOF treino com busca interna,Alta,1,57.35,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0090,"G2 muitos tickets, uso baixo, contrato longo",0.9439533403573321,OOF treino com busca interna,Alta,1,56.06,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0384,"G1 muitos tickets, uso baixo, contrato curto",0.9431906177027679,OOF treino com busca interna,Alta,1,36.85,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0618,"G1 muitos tickets, uso baixo, contrato curto",0.9429846300275596,Teste reservado,Alta,1,36.48,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0780,"G4 poucos tickets, uso baixo, contrato longo",0.9410746698166617,OOF treino com busca interna,Alta,1,40.89,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0753,"G3 muitos tickets, uso alto, contrato curto",0.94058566884359,OOF treino com busca interna,Alta,1,36.37,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0330,"G1 muitos tickets, uso baixo, contrato curto",0.9403130519789094,OOF treino com busca interna,Alta,1,50.79,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0590,"G3 muitos tickets, uso alto, contrato curto",0.940241929984131,OOF treino com busca interna,Alta,1,35.9,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0762,"G3 muitos tickets, uso alto, contrato curto",0.9388410036139918,OOF treino com busca interna,Alta,1,42.11,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0263,"G3 muitos tickets, uso alto, contrato curto",0.9365066305264199,OOF treino com busca interna,Alta,1,46.89,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0758,"G1 muitos tickets, uso baixo, contrato curto",0.9346903060105208,OOF treino com busca interna,Alta,1,49.64,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0782,"G3 muitos tickets, uso alto, contrato curto",0.9322836557027734,OOF treino com busca interna,Alta,1,50.76,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0385,"G4 poucos tickets, uso baixo, contrato longo",0.9317677847791258,OOF treino com busca interna,Alta,1,58.18,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0847,"G3 muitos tickets, uso alto, contrato curto",0.9309391777760911,Teste reservado,Alta,1,54.48,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0353,"G3 muitos tickets, uso alto, contrato curto",0.9308439062056449,OOF treino com busca interna,Alta,1,44.3,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0221,"G3 muitos tickets, uso alto, contrato curto",0.9308439062056449,OOF treino com busca interna,Alta,1,37.96,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0796,"G3 muitos tickets, uso alto, contrato curto",0.9306905472996515,OOF treino com busca interna,Alta,1,44.28,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0723,"G3 muitos tickets, uso alto, contrato curto",0.9305535277526058,OOF treino com busca interna,Alta,1,49.07,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0675,"G2 muitos tickets, uso baixo, contrato longo",0.9301463739855561,OOF treino com busca interna,Alta,1,34.81,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0242,"G3 muitos tickets, uso alto, contrato curto",0.9285288851385731,OOF treino com busca interna,Alta,1,56.9,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0416,"G3 muitos tickets, uso alto, contrato curto",0.9279985850790177,Teste reservado,Alta,1,58.57,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0467,"G3 muitos tickets, uso alto, contrato curto",0.927882207478289,Teste reservado,Alta,1,48.85,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0304,"G3 muitos tickets, uso alto, contrato curto",0.927882207478289,Teste reservado,Alta,1,44.58,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0951,"G2 muitos tickets, uso baixo, contrato longo",0.9262045732316686,OOF treino com busca interna,Alta,1,46.51,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0512,"G2 muitos tickets, uso baixo, contrato longo",0.9260943073282719,OOF treino com busca interna,Alta,1,50.31,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0174,"G2 muitos tickets, uso baixo, contrato longo",0.9255367089635573,Teste reservado,Alta,1,36.56,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0442,"G2 muitos tickets, uso baixo, contrato longo",0.9255367089635573,Teste reservado,Alta,1,49.65,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0713,"G1 muitos tickets, uso baixo, contrato curto",0.925113914010363,OOF treino com busca interna,Alta,1,43.47,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0277,"G3 muitos tickets, uso alto, contrato curto",0.9240675024990508,Teste reservado,Alta,1,33.1,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0508,"G2 muitos tickets, uso baixo, contrato longo",0.9234734214624402,Teste reservado,Alta,1,53.74,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0338,"G2 muitos tickets, uso baixo, contrato longo",0.9231411516712563,Teste reservado,Alta,1,48.68,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0886,"G3 muitos tickets, uso alto, contrato curto",0.9227405221447881,Teste reservado,Alta,1,59.64,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0409,"G2 muitos tickets, uso baixo, contrato longo",0.9227213386665295,OOF treino com busca interna,Alta,1,47.69,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0998,"G3 muitos tickets, uso alto, contrato curto",0.9223169028946173,OOF treino com busca interna,Alta,1,45.08,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0905,"G3 muitos tickets, uso alto, contrato curto",0.9210666689024503,OOF treino com busca interna,Alta,1,56.3,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0948,"G3 muitos tickets, uso alto, contrato curto",0.9180985418206647,OOF treino com busca interna,Alta,1,40.7,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0739,"G1 muitos tickets, uso baixo, contrato curto",0.9173624600693938,OOF treino com busca interna,Alta,1,55.94,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0181,"G1 muitos tickets, uso baixo, contrato curto",0.9170172055344638,Teste reservado,Alta,1,49.48,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0432,"G1 muitos tickets, uso baixo, contrato curto",0.9155299907850221,OOF treino com busca interna,Alta,1,44.75,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0199,"G2 muitos tickets, uso baixo, contrato longo",0.9154039216352235,OOF treino com busca interna,Alta,1,42.54,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0572,"G2 muitos tickets, uso baixo, contrato longo",0.9149602160383757,Teste reservado,Alta,1,59.5,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0091,"G4 poucos tickets, uso baixo, contrato longo",0.9146567823966457,OOF treino com busca interna,Alta,1,57.86,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0887,"G2 muitos tickets, uso baixo, contrato longo",0.9137930549545845,OOF treino com busca interna,Alta,1,33.75,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0653,"G2 muitos tickets, uso baixo, contrato longo",0.9135837103017357,OOF treino com busca interna,Alta,1,38.2,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0036,"G2 muitos tickets, uso baixo, contrato longo",0.9129845655641826,OOF treino com busca interna,Alta,1,38.94,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0624,"G3 muitos tickets, uso alto, contrato curto",0.912053204551691,OOF treino com busca interna,Alta,1,44.85,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0439,"G1 muitos tickets, uso baixo, contrato curto",0.9109367360272883,OOF treino com busca interna,Alta,1,37.91,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0841,"G3 muitos tickets, uso alto, contrato curto",0.9105661289202867,OOF treino com busca interna,Alta,1,54.08,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0953,"G2 muitos tickets, uso baixo, contrato longo",0.9100047700240442,OOF treino com busca interna,Alta,1,41.81,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0611,"G1 muitos tickets, uso baixo, contrato curto",0.9082769675637209,Teste reservado,Alta,1,45.69,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0759,"G2 muitos tickets, uso baixo, contrato longo",0.9071515160075155,OOF treino com busca interna,Alta,1,59.88,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0357,"G2 muitos tickets, uso baixo, contrato longo",0.9064018199907041,OOF treino com busca interna,Alta,1,52.95,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0931,"G1 muitos tickets, uso baixo, contrato curto",0.9054952497214346,Teste reservado,Alta,1,41.88,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0585,"G1 muitos tickets, uso baixo, contrato curto",0.9051700275571158,OOF treino com busca interna,Alta,1,41.81,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0089,"G2 muitos tickets, uso baixo, contrato longo",0.9037262874835867,Teste reservado,Alta,1,30.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0533,"G2 muitos tickets, uso baixo, contrato longo",0.9031151057593136,OOF treino com busca interna,Alta,1,58.95,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0060,"G2 muitos tickets, uso baixo, contrato longo",0.9029433647068146,Teste reservado,Alta,1,47.0,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0923,"G2 muitos tickets, uso baixo, contrato longo",0.9027898914156748,OOF treino com busca interna,Alta,1,32.8,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0623,"G3 muitos tickets, uso alto, contrato curto",0.9026183115285774,OOF treino com busca interna,Alta,1,49.66,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0880,"G1 muitos tickets, uso baixo, contrato curto",0.9025578322670406,Teste reservado,Alta,1,33.99,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0941,"G3 muitos tickets, uso alto, contrato curto",0.9020158582325347,OOF treino com busca interna,Alta,1,33.73,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0109,"G3 muitos tickets, uso alto, contrato curto",0.9016181999855428,OOF treino com busca interna,Alta,1,56.0,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0581,"G2 muitos tickets, uso baixo, contrato longo",0.901224633919163,OOF treino com busca interna,Alta,1,32.54,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0265,"G3 muitos tickets, uso alto, contrato curto",0.9000678312846535,OOF treino com busca interna,Alta,1,49.81,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0278,"G1 muitos tickets, uso baixo, contrato curto",0.8988732794090961,Teste reservado,Alta,1,32.15,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0600,"G3 muitos tickets, uso alto, contrato curto",0.8977592061811703,OOF treino com busca interna,Alta,1,56.03,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0001,"G2 muitos tickets, uso baixo, contrato longo",0.897472638886617,OOF treino com busca interna,Alta,1,39.57,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0247,"G2 muitos tickets, uso baixo, contrato longo",0.8946580760611379,OOF treino com busca interna,Alta,1,35.16,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0445,"G2 muitos tickets, uso baixo, contrato longo",0.8945995136193539,OOF treino com busca interna,Alta,1,51.15,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0078,"G3 muitos tickets, uso alto, contrato curto",0.8940986073572189,OOF treino com busca interna,Alta,1,40.27,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0828,"G5 poucos tickets, uso baixo, contrato curto",0.8924006972528491,Teste reservado,Alta,1,38.08,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0499,"G2 muitos tickets, uso baixo, contrato longo",0.8922265772584359,Teste reservado,Alta,1,44.56,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0657,"G2 muitos tickets, uso baixo, contrato longo",0.8915169150914036,OOF treino com busca interna,Alta,1,48.59,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0269,"G4 poucos tickets, uso baixo, contrato longo",0.8914378196280593,OOF treino com busca interna,Alta,1,30.84,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0190,"G2 muitos tickets, uso baixo, contrato longo",0.89117334913314,OOF treino com busca interna,Alta,1,36.05,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0061,"G2 muitos tickets, uso baixo, contrato longo",0.8904939763083994,OOF treino com busca interna,Alta,1,52.77,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0422,"G2 muitos tickets, uso baixo, contrato longo",0.8900871198224045,OOF treino com busca interna,Alta,1,42.15,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0506,"G1 muitos tickets, uso baixo, contrato curto",0.8899008420009298,OOF treino com busca interna,Alta,1,43.44,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0111,"G2 muitos tickets, uso baixo, contrato longo",0.8896405946384022,OOF treino com busca interna,Alta,1,47.64,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0641,"G1 muitos tickets, uso baixo, contrato curto",0.8864467913348574,Teste reservado,Alta,1,40.28,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0837,"G3 muitos tickets, uso alto, contrato curto",0.8838229575183955,OOF treino com busca interna,Alta,1,46.92,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0593,"G2 muitos tickets, uso baixo, contrato longo",0.8830161848207275,OOF treino com busca interna,Alta,1,48.99,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0028,"G4 poucos tickets, uso baixo, contrato longo",0.8814647249707745,OOF treino com busca interna,Alta,1,45.59,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0470,"G3 muitos tickets, uso alto, contrato curto",0.8814288106376323,OOF treino com busca interna,Alta,1,46.1,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0531,"G2 muitos tickets, uso baixo, contrato longo",0.8811362821680679,OOF treino com busca interna,Alta,1,55.83,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0171,"G2 muitos tickets, uso baixo, contrato longo",0.8805316104422066,OOF treino com busca interna,Alta,1,51.38,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0813,"G3 muitos tickets, uso alto, contrato curto",0.8795318393466786,OOF treino com busca interna,Alta,1,37.2,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0275,"G1 muitos tickets, uso baixo, contrato curto",0.8789880662210582,OOF treino com busca interna,Alta,1,39.93,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0223,"G3 muitos tickets, uso alto, contrato curto",0.8780576342063755,OOF treino com busca interna,Alta,1,48.9,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0548,"G3 muitos tickets, uso alto, contrato curto",0.8779917950762419,OOF treino com busca interna,Alta,1,33.66,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0188,"G4 poucos tickets, uso baixo, contrato longo",0.877550190448872,Teste reservado,Alta,1,41.82,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0150,"G3 muitos tickets, uso alto, contrato curto",0.8770323639697084,OOF treino com busca interna,Alta,0,35.62,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0045,"G4 poucos tickets, uso baixo, contrato longo",0.8748449529068849,OOF treino com busca interna,Alta,1,33.41,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0038,"G2 muitos tickets, uso baixo, contrato longo",0.8744307557315308,OOF treino com busca interna,Alta,1,44.98,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0236,"G4 poucos tickets, uso baixo, contrato longo",0.8729126530660011,OOF treino com busca interna,Alta,1,46.53,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0698,"G4 poucos tickets, uso baixo, contrato longo",0.8706401357026757,OOF treino com busca interna,Alta,1,51.99,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0898,"G4 poucos tickets, uso baixo, contrato longo",0.8686442013430273,OOF treino com busca interna,Alta,1,40.55,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0884,"G3 muitos tickets, uso alto, contrato curto",0.868373002927354,OOF treino com busca interna,Alta,1,51.43,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0317,"G2 muitos tickets, uso baixo, contrato longo",0.8669567397189651,OOF treino com busca interna,Alta,1,57.63,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0535,"G4 poucos tickets, uso baixo, contrato longo",0.8662594729700108,OOF treino com busca interna,Alta,1,55.96,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0902,"G5 poucos tickets, uso baixo, contrato curto",0.8624203614952813,OOF treino com busca interna,Alta,1,53.91,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0850,"G2 muitos tickets, uso baixo, contrato longo",0.859639442888044,OOF treino com busca interna,Alta,1,36.26,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0270,"G2 muitos tickets, uso baixo, contrato longo",0.859639442888044,OOF treino com busca interna,Alta,1,37.77,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0894,"G2 muitos tickets, uso baixo, contrato longo",0.8582787488142981,OOF treino com busca interna,Alta,1,56.73,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0343,"G3 muitos tickets, uso alto, contrato curto",0.8579793535228021,OOF treino com busca interna,Alta,1,56.0,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0814,"G3 muitos tickets, uso alto, contrato curto",0.85748115044703,Teste reservado,Alta,1,57.71,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0136,"G3 muitos tickets, uso alto, contrato curto",0.85748115044703,Teste reservado,Alta,1,49.81,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0224,"G2 muitos tickets, uso baixo, contrato longo",0.8566171455856901,OOF treino com busca interna,Alta,1,37.64,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0023,"G3 muitos tickets, uso alto, contrato curto",0.8556013454543782,Teste reservado,Alta,1,35.95,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0674,"G3 muitos tickets, uso alto, contrato curto",0.855221221324951,OOF treino com busca interna,Alta,1,47.69,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0149,"G4 poucos tickets, uso baixo, contrato longo",0.854556692864693,OOF treino com busca interna,Alta,1,36.05,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0597,"G3 muitos tickets, uso alto, contrato curto",0.852528603805028,OOF treino com busca interna,Alta,1,31.46,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0651,"G3 muitos tickets, uso alto, contrato curto",0.8488556000148043,OOF treino com busca interna,Alta,0,56.92,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0777,"G3 muitos tickets, uso alto, contrato curto",0.8472749626276056,Teste reservado,Alta,1,46.23,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0178,"G2 muitos tickets, uso baixo, contrato longo",0.8429630764558491,Teste reservado,Alta,1,33.02,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0294,"G3 muitos tickets, uso alto, contrato curto",0.8422175797264113,OOF treino com busca interna,Alta,1,43.28,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0459,"G5 poucos tickets, uso baixo, contrato curto",0.8404076461273498,OOF treino com busca interna,Alta,1,34.72,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0627,"G3 muitos tickets, uso alto, contrato curto",0.834038273516971,OOF treino com busca interna,Alta,1,36.75,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0072,"G3 muitos tickets, uso alto, contrato curto",0.8335826618368769,OOF treino com busca interna,Alta,1,51.57,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0097,"G3 muitos tickets, uso alto, contrato curto",0.8335826618368769,OOF treino com busca interna,Alta,1,47.19,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0387,"G3 muitos tickets, uso alto, contrato curto",0.8335826618368769,OOF treino com busca interna,Alta,1,48.13,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0324,"G4 poucos tickets, uso baixo, contrato longo",0.8315294512356955,OOF treino com busca interna,Alta,0,54.77,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0835,"G3 muitos tickets, uso alto, contrato curto",0.8271599435817202,Teste reservado,Alta,1,51.17,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0249,"G2 muitos tickets, uso baixo, contrato longo",0.82664693330378,OOF treino com busca interna,Alta,0,42.46,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0354,"G5 poucos tickets, uso baixo, contrato curto",0.82563977521182,OOF treino com busca interna,Alta,1,48.73,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0286,"G5 poucos tickets, uso baixo, contrato curto",0.82563977521182,OOF treino com busca interna,Alta,1,50.74,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0811,"G5 poucos tickets, uso baixo, contrato curto",0.82563977521182,OOF treino com busca interna,Alta,0,49.32,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0063,"G3 muitos tickets, uso alto, contrato curto",0.8200283345590215,OOF treino com busca interna,Alta,0,40.16,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0093,"G2 muitos tickets, uso baixo, contrato longo",0.8183572535918936,OOF treino com busca interna,Alta,0,50.8,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0080,"G2 muitos tickets, uso baixo, contrato longo",0.8164500438026586,OOF treino com busca interna,Alta,0,57.15,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0939,"G3 muitos tickets, uso alto, contrato curto",0.8161648748283374,OOF treino com busca interna,Alta,1,32.57,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0985,"G3 muitos tickets, uso alto, contrato curto",0.8142057608276444,OOF treino com busca interna,Alta,1,35.15,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0792,"G4 poucos tickets, uso baixo, contrato longo",0.8130603134124004,OOF treino com busca interna,Alta,1,43.8,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0371,"G3 muitos tickets, uso alto, contrato curto",0.810558508149738,Teste reservado,Alta,1,41.43,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0092,"G3 muitos tickets, uso alto, contrato curto",0.8092804659387011,OOF treino com busca interna,Alta,1,46.85,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0132,"G4 poucos tickets, uso baixo, contrato longo",0.8083145653266826,OOF treino com busca interna,Alta,1,40.77,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0849,"G3 muitos tickets, uso alto, contrato curto",0.8079707201265461,OOF treino com busca interna,Alta,1,36.74,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0367,"G4 poucos tickets, uso baixo, contrato longo",0.8061274840331883,OOF treino com busca interna,Alta,1,31.16,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0447,"G3 muitos tickets, uso alto, contrato curto",0.8059771845055619,Teste reservado,Alta,0,50.82,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0702,"G3 muitos tickets, uso alto, contrato curto",0.8054326947121997,OOF treino com busca interna,Alta,1,54.07,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0271,"G5 poucos tickets, uso baixo, contrato curto",0.8051635599303806,OOF treino com busca interna,Alta,1,47.75,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0062,"G3 muitos tickets, uso alto, contrato curto",0.8041066734588197,Teste reservado,Alta,1,56.2,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0200,"G5 poucos tickets, uso baixo, contrato curto",0.8038631288287,OOF treino com busca interna,Alta,1,56.68,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0577,"G3 muitos tickets, uso alto, contrato curto",0.803793466837068,OOF treino com busca interna,Alta,0,46.69,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0217,"G3 muitos tickets, uso alto, contrato curto",0.8029541831030174,OOF treino com busca interna,Alta,1,56.74,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0016,"G5 poucos tickets, uso baixo, contrato curto",0.8016795113575151,OOF treino com busca interna,Alta,1,35.34,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0971,"G4 poucos tickets, uso baixo, contrato longo",0.8011457912809588,OOF treino com busca interna,Alta,1,32.33,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0820,"G2 muitos tickets, uso baixo, contrato longo",0.8002139142240772,OOF treino com busca interna,Alta,1,37.6,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0421,"G2 muitos tickets, uso baixo, contrato longo",0.7997689373590458,Teste reservado,Alta,1,32.51,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0751,"G5 poucos tickets, uso baixo, contrato curto",0.7984455625837193,OOF treino com busca interna,Alta,1,50.59,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0222,"G3 muitos tickets, uso alto, contrato curto",0.7978052540930513,OOF treino com busca interna,Alta,0,46.15,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0253,"G3 muitos tickets, uso alto, contrato curto",0.7927335000493474,OOF treino com busca interna,Alta,1,34.89,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0520,"G3 muitos tickets, uso alto, contrato curto",0.789659897105654,OOF treino com busca interna,Alta,1,49.06,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0615,"G4 poucos tickets, uso baixo, contrato longo",0.7893252465935128,OOF treino com busca interna,Alta,1,37.31,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0192,"G2 muitos tickets, uso baixo, contrato longo",0.7871355010224971,Teste reservado,Alta,0,56.79,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0086,"G3 muitos tickets, uso alto, contrato curto",0.7863435699470722,OOF treino com busca interna,Alta,1,47.49,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0685,"G5 poucos tickets, uso baixo, contrato curto",0.7829366229444736,OOF treino com busca interna,Alta,0,36.98,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0449,"G3 muitos tickets, uso alto, contrato curto",0.781030621196574,OOF treino com busca interna,Alta,1,48.46,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0666,"G2 muitos tickets, uso baixo, contrato longo",0.7802762397986982,OOF treino com busca interna,Alta,1,35.33,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0337,"G2 muitos tickets, uso baixo, contrato longo",0.7783268869428489,Teste reservado,Alta,1,39.46,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0662,"G5 poucos tickets, uso baixo, contrato curto",0.7696337507709635,Teste reservado,Alta,1,57.17,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0339,"G5 poucos tickets, uso baixo, contrato curto",0.7692823310210817,Teste reservado,Alta,1,56.48,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0569,"G3 muitos tickets, uso alto, contrato curto",0.7682749864183759,OOF treino com busca interna,Alta,1,44.32,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0068,"G3 muitos tickets, uso alto, contrato curto",0.7682749864183759,OOF treino com busca interna,Alta,0,41.82,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0667,"G4 poucos tickets, uso baixo, contrato longo",0.7662271313027704,OOF treino com busca interna,Alta,1,55.53,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0019,"G4 poucos tickets, uso baixo, contrato longo",0.7622525133594146,Teste reservado,Alta,1,47.13,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0596,"G4 poucos tickets, uso baixo, contrato longo",0.7622164530923459,OOF treino com busca interna,Alta,1,57.99,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0207,"G3 muitos tickets, uso alto, contrato curto",0.7607085349660857,OOF treino com busca interna,Alta,1,48.62,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0812,"G3 muitos tickets, uso alto, contrato curto",0.7602719358578363,OOF treino com busca interna,Alta,1,56.84,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0342,"G4 poucos tickets, uso baixo, contrato longo",0.7483977912908184,OOF treino com busca interna,Alta,1,30.63,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0412,"G4 poucos tickets, uso baixo, contrato longo",0.7476388808769416,OOF treino com busca interna,Alta,1,56.22,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0833,"G3 muitos tickets, uso alto, contrato curto",0.7454102191799667,OOF treino com busca interna,Alta,0,35.34,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0854,"G4 poucos tickets, uso baixo, contrato longo",0.7402418931055211,Teste reservado,Alta,1,56.9,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0979,"G2 muitos tickets, uso baixo, contrato longo",0.7400865804175039,OOF treino com busca interna,Alta,1,33.88,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0638,"G6 poucos tickets, uso alto, contrato longo",0.7378098654730679,OOF treino com busca interna,Alta,0,51.72,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0787,"G3 muitos tickets, uso alto, contrato curto",0.7366877369828735,OOF treino com busca interna,Alta,1,36.72,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0536,"G5 poucos tickets, uso baixo, contrato curto",0.7362055203226257,OOF treino com busca interna,Alta,1,53.2,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0987,"G4 poucos tickets, uso baixo, contrato longo",0.7302261650430211,OOF treino com busca interna,Alta,1,41.86,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0774,"G5 poucos tickets, uso baixo, contrato curto",0.7271013143857842,OOF treino com busca interna,Alta,0,42.97,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0621,"G3 muitos tickets, uso alto, contrato curto",0.7175888762509441,OOF treino com busca interna,Alta,1,35.36,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0735,"G2 muitos tickets, uso baixo, contrato longo",0.7140072585266966,OOF treino com busca interna,Alta,1,59.0,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0689,"G6 poucos tickets, uso alto, contrato longo",0.7126109701647079,OOF treino com busca interna,Alta,0,40.01,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0712,"G3 muitos tickets, uso alto, contrato curto",0.7067585653944558,OOF treino com busca interna,Alta,1,33.56,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0292,"G3 muitos tickets, uso alto, contrato curto",0.6995036520670054,OOF treino com busca interna,Média,1,34.0,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0888,"G5 poucos tickets, uso baixo, contrato curto",0.6973325006076745,OOF treino com busca interna,Média,0,33.02,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0874,"G5 poucos tickets, uso baixo, contrato curto",0.6921733300710629,OOF treino com busca interna,Média,1,46.3,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0248,"G4 poucos tickets, uso baixo, contrato longo",0.6901412482530979,OOF treino com busca interna,Média,1,57.33,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0082,"G3 muitos tickets, uso alto, contrato curto",0.6867583951723323,Teste reservado,Média,1,41.93,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0981,"G3 muitos tickets, uso alto, contrato curto",0.6867207203935307,OOF treino com busca interna,Média,0,57.58,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0700,"G4 poucos tickets, uso baixo, contrato longo",0.683152237227777,OOF treino com busca interna,Média,1,44.14,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0699,"G4 poucos tickets, uso baixo, contrato longo",0.683152237227777,OOF treino com busca interna,Média,0,49.81,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0474,"G4 poucos tickets, uso baixo, contrato longo",0.683152237227777,OOF treino com busca interna,Média,0,46.14,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0209,"G3 muitos tickets, uso alto, contrato curto",0.6816564582132241,OOF treino com busca interna,Média,1,46.46,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0766,"G4 poucos tickets, uso baixo, contrato longo",0.6814293151690654,OOF treino com busca interna,Média,1,52.05,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0978,"G5 poucos tickets, uso baixo, contrato curto",0.6814100981182272,OOF treino com busca interna,Média,0,54.57,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0213,"G3 muitos tickets, uso alto, contrato curto",0.6706554514611417,Teste reservado,Média,0,52.81,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0681,"G5 poucos tickets, uso baixo, contrato curto",0.6678121128771684,OOF treino com busca interna,Média,1,53.1,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0733,"G6 poucos tickets, uso alto, contrato longo",0.6662208744709002,OOF treino com busca interna,Média,0,35.96,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0632,"G2 muitos tickets, uso baixo, contrato longo",0.6653483308650636,Teste reservado,Média,0,50.31,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0942,"G3 muitos tickets, uso alto, contrato curto",0.6633384332611683,Teste reservado,Média,1,54.68,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0875,"G5 poucos tickets, uso baixo, contrato curto",0.6632556406505818,Teste reservado,Média,0,36.86,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0018,"G3 muitos tickets, uso alto, contrato curto",0.6632113893531866,Teste reservado,Média,1,52.13,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0152,"G6 poucos tickets, uso alto, contrato longo",0.6625937019833484,Teste reservado,Média,1,44.06,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0881,"G5 poucos tickets, uso baixo, contrato curto",0.662062748737498,Teste reservado,Média,1,50.75,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0390,"G4 poucos tickets, uso baixo, contrato longo",0.6474392391240762,OOF treino com busca interna,Média,0,35.2,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0426,"G2 muitos tickets, uso baixo, contrato longo",0.647009752334778,Teste reservado,Média,0,44.78,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0364,"G5 poucos tickets, uso baixo, contrato curto",0.6406278879004904,Teste reservado,Média,1,38.52,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0734,"G6 poucos tickets, uso alto, contrato longo",0.6394041078543771,OOF treino com busca interna,Média,1,50.1,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0285,"G2 muitos tickets, uso baixo, contrato longo",0.6389303741269556,Teste reservado,Média,1,53.88,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0927,"G5 poucos tickets, uso baixo, contrato curto",0.6386663764908382,OOF treino com busca interna,Média,1,49.85,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0127,"G4 poucos tickets, uso baixo, contrato longo",0.6350722864254006,Teste reservado,Média,1,34.13,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0048,"G4 poucos tickets, uso baixo, contrato longo",0.6324061717889683,OOF treino com busca interna,Média,0,39.95,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0473,"G6 poucos tickets, uso alto, contrato longo",0.6323263969607327,OOF treino com busca interna,Média,1,52.73,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0051,"G4 poucos tickets, uso baixo, contrato longo",0.6291071672600235,OOF treino com busca interna,Média,1,48.5,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0550,"G4 poucos tickets, uso baixo, contrato longo",0.6286505379922265,Teste reservado,Média,1,42.81,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0262,"G5 poucos tickets, uso baixo, contrato curto",0.6280676506037753,OOF treino com busca interna,Média,1,38.81,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0328,"G4 poucos tickets, uso baixo, contrato longo",0.6264501369719578,OOF treino com busca interna,Média,1,33.52,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0141,"G5 poucos tickets, uso baixo, contrato curto",0.6239000674774197,OOF treino com busca interna,Média,1,32.46,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0935,"G5 poucos tickets, uso baixo, contrato curto",0.6165205407066273,OOF treino com busca interna,Média,1,46.1,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0896,"G5 poucos tickets, uso baixo, contrato curto",0.613717447506439,OOF treino com busca interna,Média,1,39.6,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0599,"G2 muitos tickets, uso baixo, contrato longo",0.613428054411073,OOF treino com busca interna,Média,1,51.17,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0273,"G4 poucos tickets, uso baixo, contrato longo",0.609347666504285,OOF treino com busca interna,Média,1,44.79,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0544,"G4 poucos tickets, uso baixo, contrato longo",0.6068122766771368,Teste reservado,Média,1,48.4,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0164,"G4 poucos tickets, uso baixo, contrato longo",0.6054138792111294,OOF treino com busca interna,Média,0,58.28,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0397,"G4 poucos tickets, uso baixo, contrato longo",0.6054138792111294,OOF treino com busca interna,Média,1,56.41,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0453,"G5 poucos tickets, uso baixo, contrato curto",0.5998732501282675,OOF treino com busca interna,Média,1,56.06,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0115,"G5 poucos tickets, uso baixo, contrato curto",0.5989205276401787,OOF treino com busca interna,Média,1,53.99,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0358,"G3 muitos tickets, uso alto, contrato curto",0.5959512046538584,OOF treino com busca interna,Média,1,42.43,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0415,"G4 poucos tickets, uso baixo, contrato longo",0.5918970338200662,OOF treino com busca interna,Média,0,56.56,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0907,"G4 poucos tickets, uso baixo, contrato longo",0.5903051765846213,OOF treino com busca interna,Média,0,45.89,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0336,"G4 poucos tickets, uso baixo, contrato longo",0.5892456444302803,OOF treino com busca interna,Média,1,53.62,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0859,"G5 poucos tickets, uso baixo, contrato curto",0.5889987778760325,OOF treino com busca interna,Média,1,54.58,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0517,"G5 poucos tickets, uso baixo, contrato curto",0.5885937165926932,Teste reservado,Média,1,42.87,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0853,"G4 poucos tickets, uso baixo, contrato longo",0.5871137096604752,OOF treino com busca interna,Média,0,55.1,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0119,"G4 poucos tickets, uso baixo, contrato longo",0.5804721693921792,OOF treino com busca interna,Média,1,46.02,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0606,"G5 poucos tickets, uso baixo, contrato curto",0.5715580005229804,OOF treino com busca interna,Média,1,56.74,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0926,"G4 poucos tickets, uso baixo, contrato longo",0.5667654434770131,OOF treino com busca interna,Média,1,40.33,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0220,"G4 poucos tickets, uso baixo, contrato longo",0.5659086958282437,OOF treino com busca interna,Média,1,30.57,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0801,"G5 poucos tickets, uso baixo, contrato curto",0.5644822184479477,OOF treino com busca interna,Média,0,47.31,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0612,"G4 poucos tickets, uso baixo, contrato longo",0.5631046444990657,OOF treino com busca interna,Média,1,51.85,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0454,"G3 muitos tickets, uso alto, contrato curto",0.5562200922302152,OOF treino com busca interna,Média,1,30.78,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0295,"G5 poucos tickets, uso baixo, contrato curto",0.5505975825846877,OOF treino com busca interna,Média,1,35.45,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0580,"G5 poucos tickets, uso baixo, contrato curto",0.5295650271980059,OOF treino com busca interna,Média,1,45.43,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0020,"G4 poucos tickets, uso baixo, contrato longo",0.5284010823754577,OOF treino com busca interna,Média,1,55.15,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0186,"G5 poucos tickets, uso baixo, contrato curto",0.5186042101873873,OOF treino com busca interna,Média,0,55.57,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0620,"G4 poucos tickets, uso baixo, contrato longo",0.5135549630378695,OOF treino com busca interna,Média,0,40.01,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0363,"G4 poucos tickets, uso baixo, contrato longo",0.5077001388746886,OOF treino com busca interna,Média,1,40.54,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0227,"G4 poucos tickets, uso baixo, contrato longo",0.5049742000161679,OOF treino com busca interna,Média,1,59.43,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0155,"G4 poucos tickets, uso baixo, contrato longo",0.5046864087905354,OOF treino com busca interna,Média,0,53.17,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0631,"G3 muitos tickets, uso alto, contrato curto",0.5030365103383577,OOF treino com busca interna,Média,0,35.89,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0864,"G4 poucos tickets, uso baixo, contrato longo",0.5028609370228646,OOF treino com busca interna,Média,0,43.45,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0964,"G4 poucos tickets, uso baixo, contrato longo",0.48315475580652084,OOF treino com busca interna,Média,1,54.42,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0851,"G5 poucos tickets, uso baixo, contrato curto",0.48028911658854045,OOF treino com busca interna,Média,1,48.23,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0736,"G6 poucos tickets, uso alto, contrato longo",0.4686180770896132,OOF treino com busca interna,Média,0,32.72,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0351,"G3 muitos tickets, uso alto, contrato curto",0.44792736137004935,OOF treino com busca interna,Média,0,52.92,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0706,"G6 poucos tickets, uso alto, contrato longo",0.44576473589213034,OOF treino com busca interna,Média,0,33.26,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0910,"G3 muitos tickets, uso alto, contrato curto",0.443372180704696,Teste reservado,Média,1,49.98,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0671,"G2 muitos tickets, uso baixo, contrato longo",0.4418216615735622,Teste reservado,Média,0,43.26,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0329,"G5 poucos tickets, uso baixo, contrato curto",0.4386921347022606,OOF treino com busca interna,Média,1,32.21,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0990,"G3 muitos tickets, uso alto, contrato curto",0.43773460686501153,OOF treino com busca interna,Média,0,31.95,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0159,"G4 poucos tickets, uso baixo, contrato longo",0.4364672855305841,OOF treino com busca interna,Média,1,41.92,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0216,"G6 poucos tickets, uso alto, contrato longo",0.4337134629795908,Teste reservado,Média,1,44.52,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0108,"G4 poucos tickets, uso baixo, contrato longo",0.42921950000628356,Teste reservado,Média,0,57.53,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0592,"G3 muitos tickets, uso alto, contrato curto",0.4288138979970502,OOF treino com busca interna,Média,0,33.04,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0046,"G3 muitos tickets, uso alto, contrato curto",0.4286312311961375,OOF treino com busca interna,Média,0,58.09,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0079,"G5 poucos tickets, uso baixo, contrato curto",0.42615130795705397,OOF treino com busca interna,Média,0,35.35,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0654,"G4 poucos tickets, uso baixo, contrato longo",0.4247894338538103,OOF treino com busca interna,Média,1,47.67,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0778,"G4 poucos tickets, uso baixo, contrato longo",0.42420431363469907,OOF treino com busca interna,Média,0,30.07,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0839,"G3 muitos tickets, uso alto, contrato curto",0.42109509111890303,OOF treino com busca interna,Média,1,58.79,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0717,"G3 muitos tickets, uso alto, contrato curto",0.41439074300271717,OOF treino com busca interna,Média,0,31.15,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0067,"G4 poucos tickets, uso baixo, contrato longo",0.4135527722080579,OOF treino com busca interna,Média,0,33.72,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0804,"G5 poucos tickets, uso baixo, contrato curto",0.4094819185011432,OOF treino com busca interna,Média,1,52.85,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0943,"G6 poucos tickets, uso alto, contrato longo",0.4085078920430928,OOF treino com busca interna,Média,0,53.36,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0288,"G6 poucos tickets, uso alto, contrato longo",0.40359020737718926,OOF treino com busca interna,Média,0,47.61,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0514,"G5 poucos tickets, uso baixo, contrato curto",0.40334876205324316,OOF treino com busca interna,Média,1,38.1,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0303,"G3 muitos tickets, uso alto, contrato curto",0.4012144490700234,OOF treino com busca interna,Média,1,37.39,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0540,"G5 poucos tickets, uso baixo, contrato curto",0.3934256830404158,OOF treino com busca interna,Média,1,48.69,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0451,"G6 poucos tickets, uso alto, contrato longo",0.3874695711091509,OOF treino com busca interna,Média,1,34.66,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0891,"G4 poucos tickets, uso baixo, contrato longo",0.38196780019147314,OOF treino com busca interna,Média,0,38.12,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0582,"G6 poucos tickets, uso alto, contrato longo",0.3762172049890144,OOF treino com busca interna,Média,1,40.42,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0763,"G4 poucos tickets, uso baixo, contrato longo",0.37219583193969114,OOF treino com busca interna,Média,0,56.02,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0334,"G6 poucos tickets, uso alto, contrato longo",0.37182281255145405,OOF treino com busca interna,Média,1,39.36,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0879,"G3 muitos tickets, uso alto, contrato curto",0.3665303713065082,OOF treino com busca interna,Média,1,59.53,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0523,"G6 poucos tickets, uso alto, contrato longo",0.36431952611853025,Teste reservado,Média,0,59.42,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0515,"G4 poucos tickets, uso baixo, contrato longo",0.3642049371835212,OOF treino com busca interna,Média,0,58.43,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0345,"G2 muitos tickets, uso baixo, contrato longo",0.3550646236591195,OOF treino com busca interna,Média,1,56.14,Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver
+GS-0311,"G5 poucos tickets, uso baixo, contrato curto",0.3528061888604633,OOF treino com busca interna,Média,0,35.32,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0478,"G5 poucos tickets, uso baixo, contrato curto",0.34936870217632027,OOF treino com busca interna,Média,0,57.86,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0810,"G5 poucos tickets, uso baixo, contrato curto",0.3419800768351783,Teste reservado,Média,1,30.13,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0838,"G6 poucos tickets, uso alto, contrato longo",0.3406128727071109,OOF treino com busca interna,Média,0,37.6,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0208,"G6 poucos tickets, uso alto, contrato longo",0.33921396581304814,OOF treino com busca interna,Média,0,42.18,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0326,"G6 poucos tickets, uso alto, contrato longo",0.33921396581304814,OOF treino com busca interna,Média,0,47.79,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0547,"G6 poucos tickets, uso alto, contrato longo",0.33921396581304814,OOF treino com busca interna,Média,1,33.42,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0276,"G5 poucos tickets, uso baixo, contrato curto",0.3328141451884326,OOF treino com busca interna,Média,1,53.03,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0578,"G5 poucos tickets, uso baixo, contrato curto",0.3314971116952996,OOF treino com busca interna,Média,0,30.19,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0711,"G3 muitos tickets, uso alto, contrato curto",0.33054056023264555,Teste reservado,Média,0,31.08,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0802,"G6 poucos tickets, uso alto, contrato longo",0.33013518893707605,OOF treino com busca interna,Média,1,45.91,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0722,"G3 muitos tickets, uso alto, contrato curto",0.32886470706207005,OOF treino com busca interna,Média,0,58.45,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0481,"G6 poucos tickets, uso alto, contrato longo",0.3193639346746568,OOF treino com busca interna,Média,0,50.54,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0645,"G5 poucos tickets, uso baixo, contrato curto",0.31880933800720207,OOF treino com busca interna,Média,0,55.91,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0355,"G6 poucos tickets, uso alto, contrato longo",0.3100773121737813,OOF treino com busca interna,Média,0,56.11,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0006,"G5 poucos tickets, uso baixo, contrato curto",0.30432004056530637,OOF treino com busca interna,Média,0,47.77,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0244,"G5 poucos tickets, uso baixo, contrato curto",0.30432004056530637,OOF treino com busca interna,Média,0,47.82,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0266,"G5 poucos tickets, uso baixo, contrato curto",0.2997501715009693,OOF treino com busca interna,Média,0,58.0,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0335,"G6 poucos tickets, uso alto, contrato longo",0.2994920169669608,OOF treino com busca interna,Média,0,46.08,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0703,"G6 poucos tickets, uso alto, contrato longo",0.2994920169669608,OOF treino com busca interna,Média,0,47.46,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0322,"G6 poucos tickets, uso alto, contrato longo",0.29845385586662665,OOF treino com busca interna,Média,0,55.24,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0418,"G4 poucos tickets, uso baixo, contrato longo",0.2976941621264989,OOF treino com busca interna,Média,0,54.19,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0187,"G3 muitos tickets, uso alto, contrato curto",0.2947196018447628,Teste reservado,Média,1,54.81,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0966,"G5 poucos tickets, uso baixo, contrato curto",0.2923090881714031,OOF treino com busca interna,Média,1,56.24,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0773,"G3 muitos tickets, uso alto, contrato curto",0.2914972984670934,OOF treino com busca interna,Média,1,53.83,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0037,"G3 muitos tickets, uso alto, contrato curto",0.291149484937004,OOF treino com busca interna,Média,0,52.33,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0912,"G3 muitos tickets, uso alto, contrato curto",0.28844505842029106,OOF treino com busca interna,Média,0,49.76,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0437,"G5 poucos tickets, uso baixo, contrato curto",0.28079541260993435,Teste reservado,Média,0,50.24,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0299,"G4 poucos tickets, uso baixo, contrato longo",0.27793444931505945,OOF treino com busca interna,Média,0,54.1,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0843,"G4 poucos tickets, uso baixo, contrato longo",0.2778979292019617,OOF treino com busca interna,Média,1,31.2,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0379,"G6 poucos tickets, uso alto, contrato longo",0.27626443701009706,OOF treino com busca interna,Média,0,58.24,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0488,"G5 poucos tickets, uso baixo, contrato curto",0.27525396560529963,Teste reservado,Média,0,48.53,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0870,"G3 muitos tickets, uso alto, contrato curto",0.2713099830540331,OOF treino com busca interna,Média,0,32.77,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0761,"G3 muitos tickets, uso alto, contrato curto",0.2706370417702434,OOF treino com busca interna,Média,0,59.22,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0215,"G3 muitos tickets, uso alto, contrato curto",0.26816189046133676,OOF treino com busca interna,Média,0,55.95,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0518,"G4 poucos tickets, uso baixo, contrato longo",0.2670964945946023,OOF treino com busca interna,Média,0,58.21,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0394,"G5 poucos tickets, uso baixo, contrato curto",0.266822482947483,Teste reservado,Média,0,40.4,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0889,"G4 poucos tickets, uso baixo, contrato longo",0.25936438932665706,OOF treino com busca interna,Média,1,51.63,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0233,"G3 muitos tickets, uso alto, contrato curto",0.2592924221598429,Teste reservado,Média,0,33.43,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0503,"G4 poucos tickets, uso baixo, contrato longo",0.2592786123969251,OOF treino com busca interna,Média,0,38.11,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0729,"G6 poucos tickets, uso alto, contrato longo",0.2569052084760087,OOF treino com busca interna,Média,0,34.09,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0360,"G4 poucos tickets, uso baixo, contrato longo",0.2560822849780332,Teste reservado,Média,0,52.03,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0032,"G4 poucos tickets, uso baixo, contrato longo",0.25580750388543416,OOF treino com busca interna,Média,1,54.4,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0410,"G6 poucos tickets, uso alto, contrato longo",0.2536126075733764,OOF treino com busca interna,Média,0,47.3,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0855,"G5 poucos tickets, uso baixo, contrato curto",0.25237391413515664,OOF treino com busca interna,Média,0,40.5,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0673,"G5 poucos tickets, uso baixo, contrato curto",0.25237391413515664,OOF treino com busca interna,Média,0,40.68,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0989,"G6 poucos tickets, uso alto, contrato longo",0.2501813655804296,OOF treino com busca interna,Média,0,40.93,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0002,"G6 poucos tickets, uso alto, contrato longo",0.2499365317824069,OOF treino com busca interna,Média,0,54.2,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0793,"G5 poucos tickets, uso baixo, contrato curto",0.24902887779616348,OOF treino com busca interna,Média,1,41.29,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0231,"G5 poucos tickets, uso baixo, contrato curto",0.24842072438211749,Teste reservado,Média,0,30.45,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0015,"G4 poucos tickets, uso baixo, contrato longo",0.24767059354808427,OOF treino com busca interna,Média,1,58.05,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0162,"G5 poucos tickets, uso baixo, contrato curto",0.2471777747963492,OOF treino com busca interna,Média,0,35.36,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0173,"G5 poucos tickets, uso baixo, contrato curto",0.24696114810315514,Teste reservado,Média,0,30.71,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0104,"G5 poucos tickets, uso baixo, contrato curto",0.24387412033070052,OOF treino com busca interna,Média,0,33.3,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0936,"G4 poucos tickets, uso baixo, contrato longo",0.23968267025428922,OOF treino com busca interna,Média,0,55.16,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0757,"G4 poucos tickets, uso baixo, contrato longo",0.23891338284618696,OOF treino com busca interna,Média,1,33.1,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0588,"G6 poucos tickets, uso alto, contrato longo",0.23223790731291805,Teste reservado,Média,0,50.58,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0534,"G6 poucos tickets, uso alto, contrato longo",0.23223790731291805,Teste reservado,Média,1,35.47,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0957,"G3 muitos tickets, uso alto, contrato curto",0.22911167088805237,OOF treino com busca interna,Média,1,57.48,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0440,"G4 poucos tickets, uso baixo, contrato longo",0.2278273271253661,OOF treino com busca interna,Média,0,56.26,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0545,"G5 poucos tickets, uso baixo, contrato curto",0.2254669379358075,OOF treino com busca interna,Média,0,53.8,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0543,"G6 poucos tickets, uso alto, contrato longo",0.2254307327228726,Teste reservado,Média,0,57.53,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0238,"G5 poucos tickets, uso baixo, contrato curto",0.2236406557748438,OOF treino com busca interna,Média,0,54.79,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0913,"G3 muitos tickets, uso alto, contrato curto",0.22225803756513415,OOF treino com busca interna,Média,1,46.63,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0302,"G6 poucos tickets, uso alto, contrato longo",0.2220404196636577,OOF treino com busca interna,Média,0,55.38,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0458,"G6 poucos tickets, uso alto, contrato longo",0.22189975404581963,OOF treino com busca interna,Média,0,52.21,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0659,"G4 poucos tickets, uso baixo, contrato longo",0.21052763339435915,OOF treino com busca interna,Média,1,51.89,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0992,"G5 poucos tickets, uso baixo, contrato curto",0.2091162386410592,OOF treino com busca interna,Média,0,33.95,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0848,"G5 poucos tickets, uso baixo, contrato curto",0.20366511072498866,OOF treino com busca interna,Média,0,56.43,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0893,"G5 poucos tickets, uso baixo, contrato curto",0.20232334201968336,OOF treino com busca interna,Média,0,32.47,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0825,"G6 poucos tickets, uso alto, contrato longo",0.20038204035890436,OOF treino com busca interna,Média,0,39.24,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0179,"G4 poucos tickets, uso baixo, contrato longo",0.19947994344818484,OOF treino com busca interna,Média,0,53.9,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0566,"G3 muitos tickets, uso alto, contrato curto",0.1929891401337103,OOF treino com busca interna,Média,1,55.7,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0123,"G6 poucos tickets, uso alto, contrato longo",0.18797923822827323,OOF treino com busca interna,Média,0,52.03,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0716,"G5 poucos tickets, uso baixo, contrato curto",0.1858840864153676,Teste reservado,Média,0,45.12,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0609,"G6 poucos tickets, uso alto, contrato longo",0.1835163415656055,OOF treino com busca interna,Média,0,43.47,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0492,"G5 poucos tickets, uso baixo, contrato curto",0.18195605510634752,OOF treino com busca interna,Média,0,58.97,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0584,"G3 muitos tickets, uso alto, contrato curto",0.18122328319562997,OOF treino com busca interna,Média,1,32.26,Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado
+GS-0366,"G5 poucos tickets, uso baixo, contrato curto",0.17951912510793747,OOF treino com busca interna,Média,0,36.91,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0720,"G5 poucos tickets, uso baixo, contrato curto",0.17825682554465488,OOF treino com busca interna,Média,0,58.85,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0892,"G6 poucos tickets, uso alto, contrato longo",0.1769413967100436,OOF treino com busca interna,Média,1,32.28,Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)
+GS-0482,"G5 poucos tickets, uso baixo, contrato curto",0.1762106249173653,OOF treino com busca interna,Média,0,31.94,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0904,"G5 poucos tickets, uso baixo, contrato curto",0.17052992918642257,OOF treino com busca interna,Média,1,46.1,Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos
+GS-0962,"G5 poucos tickets, uso baixo, contrato curto",0.16844667832036453,Teste reservado,Baixa,0,57.82,Monitoramento exploratório
+GS-0105,"G5 poucos tickets, uso baixo, contrato curto",0.16778235020592694,Teste reservado,Baixa,0,59.45,Monitoramento exploratório
+GS-0633,"G6 poucos tickets, uso alto, contrato longo",0.1671473292901029,OOF treino com busca interna,Baixa,0,32.07,Monitoramento exploratório
+GS-0741,"G5 poucos tickets, uso baixo, contrato curto",0.1669160894573477,Teste reservado,Baixa,0,50.68,Monitoramento exploratório
+GS-0029,"G4 poucos tickets, uso baixo, contrato longo",0.16525181733180064,OOF treino com busca interna,Baixa,0,40.66,Monitoramento exploratório
+GS-0461,"G3 muitos tickets, uso alto, contrato curto",0.16289137734241835,OOF treino com busca interna,Baixa,0,54.86,Monitoramento exploratório
+GS-0970,"G4 poucos tickets, uso baixo, contrato longo",0.16287779496563104,Teste reservado,Baixa,0,39.04,Monitoramento exploratório
+GS-0004,"G4 poucos tickets, uso baixo, contrato longo",0.16287779496563104,Teste reservado,Baixa,0,50.35,Monitoramento exploratório
+GS-0644,"G6 poucos tickets, uso alto, contrato longo",0.16275922062819087,OOF treino com busca interna,Baixa,0,31.1,Monitoramento exploratório
+GS-0376,"G4 poucos tickets, uso baixo, contrato longo",0.16203370711754375,OOF treino com busca interna,Baixa,0,32.58,Monitoramento exploratório
+GS-0425,"G5 poucos tickets, uso baixo, contrato curto",0.16147582007548467,OOF treino com busca interna,Baixa,0,51.6,Monitoramento exploratório
+GS-0829,"G5 poucos tickets, uso baixo, contrato curto",0.1609215545558094,OOF treino com busca interna,Baixa,0,42.31,Monitoramento exploratório
+GS-0139,"G4 poucos tickets, uso baixo, contrato longo",0.16052003106571716,OOF treino com busca interna,Baixa,0,34.36,Monitoramento exploratório
+GS-0462,"G4 poucos tickets, uso baixo, contrato longo",0.15885760767730553,OOF treino com busca interna,Baixa,0,45.12,Monitoramento exploratório
+GS-0296,"G4 poucos tickets, uso baixo, contrato longo",0.15885760767730553,OOF treino com busca interna,Baixa,0,46.16,Monitoramento exploratório
+GS-0743,"G4 poucos tickets, uso baixo, contrato longo",0.1575383361390667,OOF treino com busca interna,Baixa,0,58.24,Monitoramento exploratório
+GS-0967,"G5 poucos tickets, uso baixo, contrato curto",0.15639239761922247,OOF treino com busca interna,Baixa,0,55.94,Monitoramento exploratório
+GS-0956,"G5 poucos tickets, uso baixo, contrato curto",0.15539056084767708,OOF treino com busca interna,Baixa,0,45.37,Monitoramento exploratório
+GS-0446,"G5 poucos tickets, uso baixo, contrato curto",0.15473149055381186,OOF treino com busca interna,Baixa,0,55.01,Monitoramento exploratório
+GS-0570,"G5 poucos tickets, uso baixo, contrato curto",0.15466634734724852,OOF treino com busca interna,Baixa,0,33.05,Monitoramento exploratório
+GS-0642,"G6 poucos tickets, uso alto, contrato longo",0.15072851670402912,OOF treino com busca interna,Baixa,0,41.03,Monitoramento exploratório
+GS-0261,"G4 poucos tickets, uso baixo, contrato longo",0.15057386040973536,OOF treino com busca interna,Baixa,0,51.47,Monitoramento exploratório
+GS-0724,"G6 poucos tickets, uso alto, contrato longo",0.1475156370983054,OOF treino com busca interna,Baixa,0,55.94,Monitoramento exploratório
+GS-0619,"G5 poucos tickets, uso baixo, contrato curto",0.14412159839487904,OOF treino com busca interna,Baixa,0,59.18,Monitoramento exploratório
+GS-0381,"G6 poucos tickets, uso alto, contrato longo",0.14184448356342985,OOF treino com busca interna,Baixa,0,48.3,Monitoramento exploratório
+GS-0682,"G3 muitos tickets, uso alto, contrato curto",0.14183110365927615,OOF treino com busca interna,Baixa,0,33.83,Monitoramento exploratório
+GS-0868,"G4 poucos tickets, uso baixo, contrato longo",0.14068953604253928,OOF treino com busca interna,Baixa,0,55.78,Monitoramento exploratório
+GS-0347,"G4 poucos tickets, uso baixo, contrato longo",0.13803726718650947,OOF treino com busca interna,Baixa,0,58.07,Monitoramento exploratório
+GS-0598,"G3 muitos tickets, uso alto, contrato curto",0.13790758576779832,OOF treino com busca interna,Baixa,0,46.14,Monitoramento exploratório
+GS-0033,"G6 poucos tickets, uso alto, contrato longo",0.13711557194324314,OOF treino com busca interna,Baixa,0,43.07,Monitoramento exploratório
+GS-0955,"G6 poucos tickets, uso alto, contrato longo",0.13691452075398977,OOF treino com busca interna,Baixa,0,47.92,Monitoramento exploratório
+GS-0958,"G5 poucos tickets, uso baixo, contrato curto",0.13555046939082466,OOF treino com busca interna,Baixa,0,44.81,Monitoramento exploratório
+GS-0471,"G4 poucos tickets, uso baixo, contrato longo",0.13287167823546397,OOF treino com busca interna,Baixa,0,53.3,Monitoramento exploratório
+GS-0163,"G6 poucos tickets, uso alto, contrato longo",0.13109882764880695,OOF treino com busca interna,Baixa,0,55.75,Monitoramento exploratório
+GS-0460,"G4 poucos tickets, uso baixo, contrato longo",0.13078818717367663,OOF treino com busca interna,Baixa,0,54.44,Monitoramento exploratório
+GS-0332,"G6 poucos tickets, uso alto, contrato longo",0.13036537120813782,OOF treino com busca interna,Baixa,0,51.64,Monitoramento exploratório
+GS-0044,"G3 muitos tickets, uso alto, contrato curto",0.12435806794609727,OOF treino com busca interna,Baixa,0,48.63,Monitoramento exploratório
+GS-0219,"G5 poucos tickets, uso baixo, contrato curto",0.12176740762287193,Teste reservado,Baixa,0,42.66,Monitoramento exploratório
+GS-0424,"G5 poucos tickets, uso baixo, contrato curto",0.12012566329465796,OOF treino com busca interna,Baixa,0,37.69,Monitoramento exploratório
+GS-0587,"G6 poucos tickets, uso alto, contrato longo",0.11909579134338859,OOF treino com busca interna,Baixa,0,46.93,Monitoramento exploratório
+GS-0522,"G5 poucos tickets, uso baixo, contrato curto",0.11884574320155257,Teste reservado,Baixa,0,38.13,Monitoramento exploratório
+GS-0049,"G5 poucos tickets, uso baixo, contrato curto",0.11884574320155257,Teste reservado,Baixa,0,34.08,Monitoramento exploratório
+GS-0710,"G6 poucos tickets, uso alto, contrato longo",0.11722033563381308,OOF treino com busca interna,Baixa,0,58.0,Monitoramento exploratório
+GS-0595,"G6 poucos tickets, uso alto, contrato longo",0.11691080026217111,OOF treino com busca interna,Baixa,0,30.85,Monitoramento exploratório
+GS-0251,"G6 poucos tickets, uso alto, contrato longo",0.11651740457334628,OOF treino com busca interna,Baixa,0,45.47,Monitoramento exploratório
+GS-0872,"G6 poucos tickets, uso alto, contrato longo",0.11584288053520302,OOF treino com busca interna,Baixa,0,49.16,Monitoramento exploratório
+GS-0824,"G6 poucos tickets, uso alto, contrato longo",0.11584288053520302,OOF treino com busca interna,Baixa,0,46.07,Monitoramento exploratório
+GS-0054,"G6 poucos tickets, uso alto, contrato longo",0.11542281781638732,OOF treino com busca interna,Baixa,0,53.56,Monitoramento exploratório
+GS-0725,"G4 poucos tickets, uso baixo, contrato longo",0.11424563884826197,OOF treino com busca interna,Baixa,0,43.54,Monitoramento exploratório
+GS-0070,"G6 poucos tickets, uso alto, contrato longo",0.11386191925123795,OOF treino com busca interna,Baixa,0,34.4,Monitoramento exploratório
+GS-0042,"G4 poucos tickets, uso baixo, contrato longo",0.1135796425521557,OOF treino com busca interna,Baixa,0,46.21,Monitoramento exploratório
+GS-0561,"G6 poucos tickets, uso alto, contrato longo",0.11208732441786705,OOF treino com busca interna,Baixa,0,41.67,Monitoramento exploratório
+GS-0744,"G3 muitos tickets, uso alto, contrato curto",0.11079329888143247,Teste reservado,Baixa,0,50.4,Monitoramento exploratório
+GS-0293,"G6 poucos tickets, uso alto, contrato longo",0.10735009495167303,OOF treino com busca interna,Baixa,0,58.41,Monitoramento exploratório
+GS-0626,"G6 poucos tickets, uso alto, contrato longo",0.10706087421220536,OOF treino com busca interna,Baixa,0,51.48,Monitoramento exploratório
+GS-0709,"G6 poucos tickets, uso alto, contrato longo",0.10706087421220536,OOF treino com busca interna,Baixa,0,45.84,Monitoramento exploratório
+GS-0279,"G6 poucos tickets, uso alto, contrato longo",0.10590159094975199,OOF treino com busca interna,Baixa,0,51.75,Monitoramento exploratório
+GS-0073,"G6 poucos tickets, uso alto, contrato longo",0.10590159094975199,OOF treino com busca interna,Baixa,0,51.5,Monitoramento exploratório
+GS-0196,"G4 poucos tickets, uso baixo, contrato longo",0.10493053155507409,Teste reservado,Baixa,0,30.7,Monitoramento exploratório
+GS-0120,"G6 poucos tickets, uso alto, contrato longo",0.10331654121960838,OOF treino com busca interna,Baixa,0,57.5,Monitoramento exploratório
+GS-0764,"G6 poucos tickets, uso alto, contrato longo",0.10324098788489351,OOF treino com busca interna,Baixa,0,53.37,Monitoramento exploratório
+GS-0856,"G4 poucos tickets, uso baixo, contrato longo",0.10172498440621378,OOF treino com busca interna,Baixa,0,37.01,Monitoramento exploratório
+GS-0243,"G5 poucos tickets, uso baixo, contrato curto",0.10171346861439233,OOF treino com busca interna,Baixa,0,56.12,Monitoramento exploratório
+GS-0250,"G4 poucos tickets, uso baixo, contrato longo",0.10147644310106807,OOF treino com busca interna,Baixa,0,41.39,Monitoramento exploratório
+GS-0589,"G4 poucos tickets, uso baixo, contrato longo",0.10079218991722096,OOF treino com busca interna,Baixa,0,53.92,Monitoramento exploratório
+GS-0419,"G4 poucos tickets, uso baixo, contrato longo",0.10056121826193004,Teste reservado,Baixa,0,49.56,Monitoramento exploratório
+GS-0107,"G4 poucos tickets, uso baixo, contrato longo",0.10056121826193004,Teste reservado,Baixa,0,33.64,Monitoramento exploratório
+GS-0085,"G4 poucos tickets, uso baixo, contrato longo",0.09998401144057163,OOF treino com busca interna,Baixa,0,34.5,Monitoramento exploratório
+GS-0350,"G6 poucos tickets, uso alto, contrato longo",0.09990184704321566,OOF treino com busca interna,Baixa,0,40.42,Monitoramento exploratório
+GS-0845,"G6 poucos tickets, uso alto, contrato longo",0.09970076310363392,OOF treino com busca interna,Baixa,0,58.44,Monitoramento exploratório
+GS-0571,"G3 muitos tickets, uso alto, contrato curto",0.09946189490589533,Teste reservado,Baixa,0,37.16,Monitoramento exploratório
+GS-0563,"G5 poucos tickets, uso baixo, contrato curto",0.0987840606647716,OOF treino com busca interna,Baixa,0,47.9,Monitoramento exploratório
+GS-0930,"G6 poucos tickets, uso alto, contrato longo",0.09719989073714476,Teste reservado,Baixa,0,36.94,Monitoramento exploratório
+GS-0507,"G6 poucos tickets, uso alto, contrato longo",0.09719989073714476,Teste reservado,Baixa,0,34.81,Monitoramento exploratório
+GS-0026,"G3 muitos tickets, uso alto, contrato curto",0.09508934576590596,OOF treino com busca interna,Baixa,0,54.34,Monitoramento exploratório
+GS-0969,"G5 poucos tickets, uso baixo, contrato curto",0.09488296559535099,OOF treino com busca interna,Baixa,0,53.6,Monitoramento exploratório
+GS-0556,"G4 poucos tickets, uso baixo, contrato longo",0.09479089923883804,Teste reservado,Baixa,0,53.83,Monitoramento exploratório
+GS-0630,"G6 poucos tickets, uso alto, contrato longo",0.0943471080451173,Teste reservado,Baixa,0,49.41,Monitoramento exploratório
+GS-0745,"G4 poucos tickets, uso baixo, contrato longo",0.09423783515414928,OOF treino com busca interna,Baixa,0,44.82,Monitoramento exploratório
+GS-0076,"G6 poucos tickets, uso alto, contrato longo",0.09419528360405956,OOF treino com busca interna,Baixa,0,46.18,Monitoramento exploratório
+GS-0193,"G4 poucos tickets, uso baixo, contrato longo",0.09243757936601957,OOF treino com busca interna,Baixa,0,30.29,Monitoramento exploratório
+GS-0929,"G6 poucos tickets, uso alto, contrato longo",0.0911020892514571,Teste reservado,Baixa,0,57.72,Monitoramento exploratório
+GS-0911,"G6 poucos tickets, uso alto, contrato longo",0.0911020892514571,Teste reservado,Baixa,0,59.72,Monitoramento exploratório
+GS-0608,"G5 poucos tickets, uso baixo, contrato curto",0.0891589482366069,OOF treino com busca interna,Baixa,0,54.42,Monitoramento exploratório
+GS-0755,"G6 poucos tickets, uso alto, contrato longo",0.08845168410173856,OOF treino com busca interna,Baixa,0,41.72,Monitoramento exploratório
+GS-0305,"G6 poucos tickets, uso alto, contrato longo",0.08845168410173856,OOF treino com busca interna,Baixa,0,36.54,Monitoramento exploratório
+GS-0095,"G4 poucos tickets, uso baixo, contrato longo",0.08823070842822583,Teste reservado,Baixa,0,51.12,Monitoramento exploratório
+GS-0999,"G4 poucos tickets, uso baixo, contrato longo",0.08823070842822583,Teste reservado,Baixa,0,43.09,Monitoramento exploratório
+GS-0790,"G6 poucos tickets, uso alto, contrato longo",0.0878897816000136,Teste reservado,Baixa,0,49.95,Monitoramento exploratório
+GS-0740,"G6 poucos tickets, uso alto, contrato longo",0.0878897816000136,Teste reservado,Baixa,0,35.21,Monitoramento exploratório
+GS-0688,"G6 poucos tickets, uso alto, contrato longo",0.08740090593078927,Teste reservado,Baixa,0,45.49,Monitoramento exploratório
+GS-0794,"G4 poucos tickets, uso baixo, contrato longo",0.08701402989373078,OOF treino com busca interna,Baixa,0,55.8,Monitoramento exploratório
+GS-0993,"G4 poucos tickets, uso baixo, contrato longo",0.08674615380660461,Teste reservado,Baixa,0,58.79,Monitoramento exploratório
+GS-0860,"G4 poucos tickets, uso baixo, contrato longo",0.08654788698122164,OOF treino com busca interna,Baixa,0,42.61,Monitoramento exploratório
+GS-0201,"G6 poucos tickets, uso alto, contrato longo",0.0857958306176117,OOF treino com busca interna,Baixa,0,54.42,Monitoramento exploratório
+GS-0635,"G5 poucos tickets, uso baixo, contrato curto",0.08565765026126272,OOF treino com busca interna,Baixa,0,37.63,Monitoramento exploratório
+GS-0056,"G4 poucos tickets, uso baixo, contrato longo",0.08545145314682033,OOF treino com busca interna,Baixa,0,39.25,Monitoramento exploratório
+GS-0524,"G4 poucos tickets, uso baixo, contrato longo",0.08489194034230552,OOF treino com busca interna,Baixa,0,42.18,Monitoramento exploratório
+GS-0035,"G4 poucos tickets, uso baixo, contrato longo",0.08468754635285598,OOF treino com busca interna,Baixa,0,43.78,Monitoramento exploratório
+GS-0287,"G6 poucos tickets, uso alto, contrato longo",0.08307720083044935,OOF treino com busca interna,Baixa,0,38.06,Monitoramento exploratório
+GS-0604,"G6 poucos tickets, uso alto, contrato longo",0.08156767783736672,OOF treino com busca interna,Baixa,0,54.34,Monitoramento exploratório
+GS-0479,"G6 poucos tickets, uso alto, contrato longo",0.0803943795846963,OOF treino com busca interna,Baixa,0,32.98,Monitoramento exploratório
+GS-0144,"G6 poucos tickets, uso alto, contrato longo",0.0803943795846963,OOF treino com busca interna,Baixa,0,47.76,Monitoramento exploratório
+GS-0240,"G6 poucos tickets, uso alto, contrato longo",0.08026378366934367,OOF treino com busca interna,Baixa,0,30.23,Monitoramento exploratório
+GS-0639,"G3 muitos tickets, uso alto, contrato curto",0.08015027016459145,OOF treino com busca interna,Baixa,0,52.18,Monitoramento exploratório
+GS-0669,"G6 poucos tickets, uso alto, contrato longo",0.08001920635156098,OOF treino com busca interna,Baixa,0,37.32,Monitoramento exploratório
+GS-0816,"G3 muitos tickets, uso alto, contrato curto",0.07769101316364589,OOF treino com busca interna,Baixa,0,57.93,Monitoramento exploratório
+GS-0258,"G6 poucos tickets, uso alto, contrato longo",0.07767838909474387,OOF treino com busca interna,Baixa,0,41.58,Monitoramento exploratório
+GS-0562,"G6 poucos tickets, uso alto, contrato longo",0.07755335379642112,OOF treino com busca interna,Baixa,0,44.3,Monitoramento exploratório
+GS-0239,"G4 poucos tickets, uso baixo, contrato longo",0.07666545405991097,OOF treino com busca interna,Baixa,0,36.09,Monitoramento exploratório
+GS-0130,"G4 poucos tickets, uso baixo, contrato longo",0.07666545405991097,OOF treino com busca interna,Baixa,0,42.47,Monitoramento exploratório
+GS-0255,"G6 poucos tickets, uso alto, contrato longo",0.07605283989229077,OOF treino com busca interna,Baixa,0,32.38,Monitoramento exploratório
+GS-0997,"G6 poucos tickets, uso alto, contrato longo",0.07566259497577252,OOF treino com busca interna,Baixa,0,39.25,Monitoramento exploratório
+GS-0996,"G3 muitos tickets, uso alto, contrato curto",0.07418643017217084,OOF treino com busca interna,Baixa,0,42.87,Monitoramento exploratório
+GS-0177,"G6 poucos tickets, uso alto, contrato longo",0.07393197227410499,OOF treino com busca interna,Baixa,0,30.49,Monitoramento exploratório
+GS-0235,"G6 poucos tickets, uso alto, contrato longo",0.07296203033907332,OOF treino com busca interna,Baixa,1,38.12,Monitoramento exploratório
+GS-0333,"G5 poucos tickets, uso baixo, contrato curto",0.07237352190751672,OOF treino com busca interna,Baixa,0,31.86,Monitoramento exploratório
+GS-0420,"G4 poucos tickets, uso baixo, contrato longo",0.07235166343137167,OOF treino com busca interna,Baixa,0,46.43,Monitoramento exploratório
+GS-0497,"G5 poucos tickets, uso baixo, contrato curto",0.07178735770117661,OOF treino com busca interna,Baixa,0,30.56,Monitoramento exploratório
+GS-0372,"G6 poucos tickets, uso alto, contrato longo",0.07127022347499594,OOF treino com busca interna,Baixa,0,50.29,Monitoramento exploratório
+GS-0791,"G6 poucos tickets, uso alto, contrato longo",0.07127022347499594,OOF treino com busca interna,Baixa,0,48.48,Monitoramento exploratório
+GS-0133,"G5 poucos tickets, uso baixo, contrato curto",0.07081328176524006,OOF treino com busca interna,Baixa,0,47.32,Monitoramento exploratório
+GS-0840,"G6 poucos tickets, uso alto, contrato longo",0.07047788609870116,OOF treino com busca interna,Baixa,0,44.41,Monitoramento exploratório
+GS-0686,"G4 poucos tickets, uso baixo, contrato longo",0.07024211251396723,Teste reservado,Baixa,0,32.1,Monitoramento exploratório
+GS-0601,"G5 poucos tickets, uso baixo, contrato curto",0.0692220627925163,OOF treino com busca interna,Baixa,0,51.32,Monitoramento exploratório
+GS-0475,"G6 poucos tickets, uso alto, contrato longo",0.06790416160338227,OOF treino com busca interna,Baixa,0,58.79,Monitoramento exploratório
+GS-0944,"G5 poucos tickets, uso baixo, contrato curto",0.06757375582582276,OOF treino com busca interna,Baixa,0,51.16,Monitoramento exploratório
+GS-0427,"G6 poucos tickets, uso alto, contrato longo",0.06638749824358929,OOF treino com busca interna,Baixa,0,32.33,Monitoramento exploratório
+GS-0798,"G4 poucos tickets, uso baixo, contrato longo",0.06577604605374952,OOF treino com busca interna,Baixa,0,40.14,Monitoramento exploratório
+GS-0800,"G6 poucos tickets, uso alto, contrato longo",0.06546482246629143,Teste reservado,Baixa,0,41.86,Monitoramento exploratório
+GS-0803,"G4 poucos tickets, uso baixo, contrato longo",0.06443803366431979,OOF treino com busca interna,Baixa,0,48.14,Monitoramento exploratório
+GS-0211,"G6 poucos tickets, uso alto, contrato longo",0.06399592412204244,OOF treino com busca interna,Baixa,0,38.73,Monitoramento exploratório
+GS-0283,"G6 poucos tickets, uso alto, contrato longo",0.06399592412204244,OOF treino com busca interna,Baixa,0,37.29,Monitoramento exploratório
+GS-0166,"G6 poucos tickets, uso alto, contrato longo",0.06341958176295857,OOF treino com busca interna,Baixa,0,38.02,Monitoramento exploratório
+GS-0373,"G4 poucos tickets, uso baixo, contrato longo",0.06327408170488562,OOF treino com busca interna,Baixa,0,36.45,Monitoramento exploratório
+GS-0383,"G5 poucos tickets, uso baixo, contrato curto",0.06316016851363929,OOF treino com busca interna,Baixa,0,59.64,Monitoramento exploratório
+GS-0157,"G4 poucos tickets, uso baixo, contrato longo",0.06314404425687199,OOF treino com busca interna,Baixa,0,45.63,Monitoramento exploratório
+GS-0071,"G6 poucos tickets, uso alto, contrato longo",0.06117186035748634,OOF treino com busca interna,Baixa,0,36.78,Monitoramento exploratório
+GS-0170,"G6 poucos tickets, uso alto, contrato longo",0.06081443829524853,OOF treino com busca interna,Baixa,0,34.58,Monitoramento exploratório
+GS-0005,"G5 poucos tickets, uso baixo, contrato curto",0.058752128808618444,OOF treino com busca interna,Baixa,0,52.71,Monitoramento exploratório
+GS-0754,"G5 poucos tickets, uso baixo, contrato curto",0.05756035369497854,OOF treino com busca interna,Baixa,0,49.67,Monitoramento exploratório
+GS-0161,"G6 poucos tickets, uso alto, contrato longo",0.05671347593960911,OOF treino com busca interna,Baixa,0,34.56,Monitoramento exploratório
+GS-0100,"G4 poucos tickets, uso baixo, contrato longo",0.055226723618857006,OOF treino com busca interna,Baixa,0,51.99,Monitoramento exploratório
+GS-0890,"G6 poucos tickets, uso alto, contrato longo",0.05472747984314587,OOF treino com busca interna,Baixa,0,47.25,Monitoramento exploratório
+GS-0378,"G4 poucos tickets, uso baixo, contrato longo",0.05453281971983214,OOF treino com busca interna,Baixa,0,56.27,Monitoramento exploratório
+GS-0988,"G5 poucos tickets, uso baixo, contrato curto",0.05433421715207429,Teste reservado,Baixa,0,34.29,Monitoramento exploratório
+GS-0980,"G6 poucos tickets, uso alto, contrato longo",0.05427240711258979,OOF treino com busca interna,Baixa,0,55.76,Monitoramento exploratório
+GS-0290,"G4 poucos tickets, uso baixo, contrato longo",0.05416852199892553,OOF treino com busca interna,Baixa,0,32.65,Monitoramento exploratório
+GS-0656,"G4 poucos tickets, uso baixo, contrato longo",0.053714088094334776,OOF treino com busca interna,Baixa,0,36.22,Monitoramento exploratório
+GS-0865,"G4 poucos tickets, uso baixo, contrato longo",0.053714088094334776,OOF treino com busca interna,Baixa,0,47.5,Monitoramento exploratório
+GS-0805,"G5 poucos tickets, uso baixo, contrato curto",0.05330767443520805,OOF treino com busca interna,Baixa,0,54.29,Monitoramento exploratório
+GS-0972,"G6 poucos tickets, uso alto, contrato longo",0.05303114524018647,OOF treino com busca interna,Baixa,0,41.99,Monitoramento exploratório
+GS-0280,"G5 poucos tickets, uso baixo, contrato curto",0.05240506932609563,OOF treino com busca interna,Baixa,0,44.76,Monitoramento exploratório
+GS-0821,"G5 poucos tickets, uso baixo, contrato curto",0.052106551091444346,OOF treino com busca interna,Baixa,0,38.45,Monitoramento exploratório
+GS-0306,"G5 poucos tickets, uso baixo, contrato curto",0.05176152899540337,OOF treino com busca interna,Baixa,0,59.53,Monitoramento exploratório
+GS-0081,"G6 poucos tickets, uso alto, contrato longo",0.05147255529576775,OOF treino com busca interna,Baixa,0,47.4,Monitoramento exploratório
+GS-0586,"G4 poucos tickets, uso baixo, contrato longo",0.05146203913801192,OOF treino com busca interna,Baixa,0,33.88,Monitoramento exploratório
+GS-0806,"G4 poucos tickets, uso baixo, contrato longo",0.05090767140242841,OOF treino com busca interna,Baixa,0,51.44,Monitoramento exploratório
+GS-0528,"G4 poucos tickets, uso baixo, contrato longo",0.05081858575819663,OOF treino com busca interna,Baixa,0,30.83,Monitoramento exploratório
+GS-0511,"G6 poucos tickets, uso alto, contrato longo",0.05077694744708344,OOF treino com busca interna,Baixa,0,32.37,Monitoramento exploratório
+GS-0241,"G6 poucos tickets, uso alto, contrato longo",0.05077694744708344,OOF treino com busca interna,Baixa,0,34.01,Monitoramento exploratório
+GS-0591,"G4 poucos tickets, uso baixo, contrato longo",0.05073068724722728,OOF treino com busca interna,Baixa,0,34.92,Monitoramento exploratório
+GS-0746,"G5 poucos tickets, uso baixo, contrato curto",0.050501461963082236,Teste reservado,Baixa,0,48.44,Monitoramento exploratório
+GS-0431,"G6 poucos tickets, uso alto, contrato longo",0.049793775784085795,OOF treino com busca interna,Baixa,0,55.44,Monitoramento exploratório
+GS-0055,"G3 muitos tickets, uso alto, contrato curto",0.049516325188840145,OOF treino com busca interna,Baixa,0,34.45,Monitoramento exploratório
+GS-0976,"G5 poucos tickets, uso baixo, contrato curto",0.049264100779085544,OOF treino com busca interna,Baixa,0,59.17,Monitoramento exploratório
+GS-0714,"G4 poucos tickets, uso baixo, contrato longo",0.04905725361523562,OOF treino com busca interna,Baixa,0,57.92,Monitoramento exploratório
+GS-0374,"G5 poucos tickets, uso baixo, contrato curto",0.04879723739339806,OOF treino com busca interna,Baixa,0,58.4,Monitoramento exploratório
+GS-0921,"G5 poucos tickets, uso baixo, contrato curto",0.04876873610993388,OOF treino com busca interna,Baixa,0,35.93,Monitoramento exploratório
+GS-0704,"G5 poucos tickets, uso baixo, contrato curto",0.04873000073869794,OOF treino com busca interna,Baixa,0,55.95,Monitoramento exploratório
+GS-0819,"G4 poucos tickets, uso baixo, contrato longo",0.04851407269333259,OOF treino com busca interna,Baixa,0,44.48,Monitoramento exploratório
+GS-0059,"G5 poucos tickets, uso baixo, contrato curto",0.04817553239901477,OOF treino com busca interna,Baixa,0,30.91,Monitoramento exploratório
+GS-0408,"G6 poucos tickets, uso alto, contrato longo",0.048062336928495056,OOF treino com busca interna,Baixa,0,46.01,Monitoramento exploratório
+GS-0047,"G3 muitos tickets, uso alto, contrato curto",0.04793975851121728,OOF treino com busca interna,Baixa,0,48.73,Monitoramento exploratório
+GS-0010,"G3 muitos tickets, uso alto, contrato curto",0.0473715613194881,OOF treino com busca interna,Baixa,0,57.79,Monitoramento exploratório
+GS-0610,"G4 poucos tickets, uso baixo, contrato longo",0.047176325025559816,OOF treino com busca interna,Baixa,0,49.21,Monitoramento exploratório
+GS-0546,"G4 poucos tickets, uso baixo, contrato longo",0.04605908331094183,Teste reservado,Baixa,0,44.35,Monitoramento exploratório
+GS-0191,"G6 poucos tickets, uso alto, contrato longo",0.04605908331094183,Teste reservado,Baixa,0,38.69,Monitoramento exploratório
+GS-0573,"G5 poucos tickets, uso baixo, contrato curto",0.04578258380371168,Teste reservado,Baixa,0,34.17,Monitoramento exploratório
+GS-0407,"G5 poucos tickets, uso baixo, contrato curto",0.045442363254525296,OOF treino com busca interna,Baixa,0,36.61,Monitoramento exploratório
+GS-0309,"G6 poucos tickets, uso alto, contrato longo",0.04456493335630069,OOF treino com busca interna,Baixa,0,51.07,Monitoramento exploratório
+GS-0202,"G5 poucos tickets, uso baixo, contrato curto",0.043502995468928995,OOF treino com busca interna,Baixa,0,40.15,Monitoramento exploratório
+GS-0901,"G4 poucos tickets, uso baixo, contrato longo",0.04344858345329171,OOF treino com busca interna,Baixa,0,31.93,Monitoramento exploratório
+GS-0658,"G4 poucos tickets, uso baixo, contrato longo",0.04335865950671409,Teste reservado,Baixa,0,48.85,Monitoramento exploratório
+GS-0375,"G4 poucos tickets, uso baixo, contrato longo",0.04331447653262233,OOF treino com busca interna,Baixa,0,53.49,Monitoramento exploratório
+GS-0331,"G3 muitos tickets, uso alto, contrato curto",0.04304334779412571,OOF treino com busca interna,Baixa,0,40.1,Monitoramento exploratório
+GS-0831,"G5 poucos tickets, uso baixo, contrato curto",0.0423439251968222,Teste reservado,Baixa,0,35.33,Monitoramento exploratório
+GS-0008,"G6 poucos tickets, uso alto, contrato longo",0.042239627026172316,OOF treino com busca interna,Baixa,0,42.26,Monitoramento exploratório
+GS-0380,"G6 poucos tickets, uso alto, contrato longo",0.04149289931864137,OOF treino com busca interna,Baixa,0,43.92,Monitoramento exploratório
+GS-0795,"G5 poucos tickets, uso baixo, contrato curto",0.04117940871979071,OOF treino com busca interna,Baixa,0,45.47,Monitoramento exploratório
+GS-0629,"G5 poucos tickets, uso baixo, contrato curto",0.04114452596475982,OOF treino com busca interna,Baixa,0,59.14,Monitoramento exploratório
+GS-0844,"G4 poucos tickets, uso baixo, contrato longo",0.040920025411664715,OOF treino com busca interna,Baixa,0,48.89,Monitoramento exploratório
+GS-0784,"G6 poucos tickets, uso alto, contrato longo",0.040786737080211743,OOF treino com busca interna,Baixa,0,43.36,Monitoramento exploratório
+GS-0983,"G5 poucos tickets, uso baixo, contrato curto",0.04052630626103022,Teste reservado,Baixa,0,48.09,Monitoramento exploratório
+GS-0321,"G6 poucos tickets, uso alto, contrato longo",0.040461845335113086,Teste reservado,Baixa,0,55.76,Monitoramento exploratório
+GS-0284,"G4 poucos tickets, uso baixo, contrato longo",0.03993495947594268,Teste reservado,Baixa,0,54.47,Monitoramento exploratório
+GS-0246,"G5 poucos tickets, uso baixo, contrato curto",0.03990287848318086,OOF treino com busca interna,Baixa,0,49.85,Monitoramento exploratório
+GS-0065,"G6 poucos tickets, uso alto, contrato longo",0.03961345230999435,OOF treino com busca interna,Baixa,0,33.22,Monitoramento exploratório
+GS-0180,"G3 muitos tickets, uso alto, contrato curto",0.0395254097876699,OOF treino com busca interna,Baixa,0,35.26,Monitoramento exploratório
+GS-0041,"G5 poucos tickets, uso baixo, contrato curto",0.03946632803500114,Teste reservado,Baixa,0,41.42,Monitoramento exploratório
+GS-0197,"G4 poucos tickets, uso baixo, contrato longo",0.0393164672625009,OOF treino com busca interna,Baixa,0,35.34,Monitoramento exploratório
+GS-0398,"G5 poucos tickets, uso baixo, contrato curto",0.03858646421895432,Teste reservado,Baixa,0,57.73,Monitoramento exploratório
+GS-0313,"G5 poucos tickets, uso baixo, contrato curto",0.03747674560006373,OOF treino com busca interna,Baixa,0,57.36,Monitoramento exploratório
+GS-0554,"G6 poucos tickets, uso alto, contrato longo",0.03724494257681247,OOF treino com busca interna,Baixa,0,47.36,Monitoramento exploratório
+GS-0312,"G6 poucos tickets, uso alto, contrato longo",0.03724494257681247,OOF treino com busca interna,Baixa,0,46.94,Monitoramento exploratório
+GS-0960,"G5 poucos tickets, uso baixo, contrato curto",0.03628637711692971,OOF treino com busca interna,Baixa,0,55.44,Monitoramento exploratório
+GS-0832,"G6 poucos tickets, uso alto, contrato longo",0.035878576255526026,OOF treino com busca interna,Baixa,0,50.33,Monitoramento exploratório
+GS-0348,"G6 poucos tickets, uso alto, contrato longo",0.03558952282310318,OOF treino com busca interna,Baixa,0,53.86,Monitoramento exploratório
+GS-0075,"G6 poucos tickets, uso alto, contrato longo",0.035356998732850406,Teste reservado,Baixa,0,50.72,Monitoramento exploratório
+GS-0986,"G6 poucos tickets, uso alto, contrato longo",0.03471668978916501,OOF treino com busca interna,Baixa,0,44.98,Monitoramento exploratório
+GS-0154,"G4 poucos tickets, uso baixo, contrato longo",0.03439285588858867,OOF treino com busca interna,Baixa,0,31.87,Monitoramento exploratório
+GS-0895,"G6 poucos tickets, uso alto, contrato longo",0.03352018126212872,OOF treino com busca interna,Baixa,0,35.66,Monitoramento exploratório
+GS-0776,"G3 muitos tickets, uso alto, contrato curto",0.03350159762619681,Teste reservado,Baixa,0,33.51,Monitoramento exploratório
+GS-0937,"G4 poucos tickets, uso baixo, contrato longo",0.03328214868906463,OOF treino com busca interna,Baixa,0,45.53,Monitoramento exploratório
+GS-0314,"G6 poucos tickets, uso alto, contrato longo",0.03258144959994996,Teste reservado,Baixa,0,30.92,Monitoramento exploratório
+GS-0705,"G5 poucos tickets, uso baixo, contrato curto",0.032280333116427966,OOF treino com busca interna,Baixa,0,36.08,Monitoramento exploratório
+GS-0494,"G4 poucos tickets, uso baixo, contrato longo",0.03215198791926697,OOF treino com busca interna,Baixa,0,33.8,Monitoramento exploratório
+GS-0185,"G6 poucos tickets, uso alto, contrato longo",0.03087565881845476,OOF treino com busca interna,Baixa,0,51.57,Monitoramento exploratório
+GS-0138,"G6 poucos tickets, uso alto, contrato longo",0.029832947021972724,OOF treino com busca interna,Baixa,0,58.73,Monitoramento exploratório
+GS-0369,"G3 muitos tickets, uso alto, contrato curto",0.02969783315369851,Teste reservado,Baixa,0,59.53,Monitoramento exploratório
+GS-0429,"G6 poucos tickets, uso alto, contrato longo",0.029519215113523577,Teste reservado,Baixa,0,50.4,Monitoramento exploratório
+GS-0827,"G6 poucos tickets, uso alto, contrato longo",0.029519215113523577,Teste reservado,Baixa,0,51.38,Monitoramento exploratório
+GS-0770,"G6 poucos tickets, uso alto, contrato longo",0.029174467913337377,OOF treino com busca interna,Baixa,0,49.93,Monitoramento exploratório
+GS-0694,"G5 poucos tickets, uso baixo, contrato curto",0.02833293033468002,OOF treino com busca interna,Baixa,0,51.1,Monitoramento exploratório
+GS-0732,"G6 poucos tickets, uso alto, contrato longo",0.027743558629116892,OOF treino com busca interna,Baixa,0,51.04,Monitoramento exploratório
+GS-0866,"G5 poucos tickets, uso baixo, contrato curto",0.027401627173158697,OOF treino com busca interna,Baixa,0,34.94,Monitoramento exploratório
+GS-0516,"G6 poucos tickets, uso alto, contrato longo",0.027371766845132966,OOF treino com busca interna,Baixa,0,34.43,Monitoramento exploratório
+GS-0282,"G5 poucos tickets, uso baixo, contrato curto",0.027333064195187943,OOF treino com busca interna,Baixa,0,42.94,Monitoramento exploratório
+GS-0365,"G6 poucos tickets, uso alto, contrato longo",0.027221797175558914,OOF treino com busca interna,Baixa,0,38.79,Monitoramento exploratório
+GS-0555,"G6 poucos tickets, uso alto, contrato longo",0.026423908763785864,OOF treino com busca interna,Baixa,0,37.97,Monitoramento exploratório
+GS-0121,"G5 poucos tickets, uso baixo, contrato curto",0.026318213740728014,OOF treino com busca interna,Baixa,0,40.29,Monitoramento exploratório
+GS-0168,"G5 poucos tickets, uso baixo, contrato curto",0.026161984619822866,OOF treino com busca interna,Baixa,0,42.16,Monitoramento exploratório
+GS-0435,"G5 poucos tickets, uso baixo, contrato curto",0.026104282979666334,OOF treino com busca interna,Baixa,0,54.64,Monitoramento exploratório
+GS-0145,"G4 poucos tickets, uso baixo, contrato longo",0.02602677280960538,OOF treino com busca interna,Baixa,0,31.91,Monitoramento exploratório
+GS-0485,"G5 poucos tickets, uso baixo, contrato curto",0.02542474327630472,OOF treino com busca interna,Baixa,0,31.92,Monitoramento exploratório
+GS-0406,"G3 muitos tickets, uso alto, contrato curto",0.024299203221754172,OOF treino com busca interna,Baixa,0,36.63,Monitoramento exploratório
+GS-0783,"G4 poucos tickets, uso baixo, contrato longo",0.023499943552356222,OOF treino com busca interna,Baixa,0,41.56,Monitoramento exploratório
+GS-0742,"G5 poucos tickets, uso baixo, contrato curto",0.0234137193765071,OOF treino com busca interna,Baixa,0,55.04,Monitoramento exploratório
+GS-0789,"G6 poucos tickets, uso alto, contrato longo",0.022734598282713955,OOF treino com busca interna,Baixa,0,48.0,Monitoramento exploratório
+GS-0386,"G6 poucos tickets, uso alto, contrato longo",0.022252257340820956,OOF treino com busca interna,Baixa,0,49.39,Monitoramento exploratório
+GS-0327,"G6 poucos tickets, uso alto, contrato longo",0.022075716306890297,OOF treino com busca interna,Baixa,0,36.8,Monitoramento exploratório
+GS-0228,"G5 poucos tickets, uso baixo, contrato curto",0.021286865648458882,OOF treino com busca interna,Baixa,0,45.67,Monitoramento exploratório
+GS-0245,"G6 poucos tickets, uso alto, contrato longo",0.021225124661075442,OOF treino com busca interna,Baixa,0,47.92,Monitoramento exploratório
+GS-0110,"G4 poucos tickets, uso baixo, contrato longo",0.021225124661075442,OOF treino com busca interna,Baixa,0,45.47,Monitoramento exploratório
+GS-0737,"G5 poucos tickets, uso baixo, contrato curto",0.02120924761047543,Teste reservado,Baixa,0,50.08,Monitoramento exploratório
+GS-0444,"G4 poucos tickets, uso baixo, contrato longo",0.02085863341221983,OOF treino com busca interna,Baixa,0,55.92,Monitoramento exploratório
+GS-0315,"G6 poucos tickets, uso alto, contrato longo",0.02065970380649137,OOF treino com busca interna,Baixa,0,50.82,Monitoramento exploratório
+GS-0301,"G5 poucos tickets, uso baixo, contrato curto",0.020537759778087743,OOF treino com busca interna,Baixa,0,50.67,Monitoramento exploratório
+GS-0539,"G4 poucos tickets, uso baixo, contrato longo",0.020451837486635916,OOF treino com busca interna,Baixa,0,52.73,Monitoramento exploratório
+GS-0167,"G6 poucos tickets, uso alto, contrato longo",0.02014964889473111,OOF treino com busca interna,Baixa,0,49.22,Monitoramento exploratório
+GS-0430,"G6 poucos tickets, uso alto, contrato longo",0.01978011939550527,OOF treino com busca interna,Baixa,0,32.18,Monitoramento exploratório
+GS-0477,"G6 poucos tickets, uso alto, contrato longo",0.01968219448296776,OOF treino com busca interna,Baixa,0,48.88,Monitoramento exploratório
+GS-0968,"G6 poucos tickets, uso alto, contrato longo",0.01968219448296776,OOF treino com busca interna,Baixa,0,54.08,Monitoramento exploratório
+GS-0212,"G6 poucos tickets, uso alto, contrato longo",0.019412082279685064,OOF treino com busca interna,Baixa,0,58.35,Monitoramento exploratório
+GS-0391,"G6 poucos tickets, uso alto, contrato longo",0.01917217967613496,Teste reservado,Baixa,0,36.51,Monitoramento exploratório
+GS-0267,"G6 poucos tickets, uso alto, contrato longo",0.019117742106749554,OOF treino com busca interna,Baixa,0,51.88,Monitoramento exploratório
+GS-0603,"G4 poucos tickets, uso baixo, contrato longo",0.01900354770886664,OOF treino com busca interna,Baixa,0,40.08,Monitoramento exploratório
+GS-0083,"G6 poucos tickets, uso alto, contrato longo",0.01881404344545786,OOF treino com busca interna,Baixa,0,43.76,Monitoramento exploratório
+GS-0984,"G6 poucos tickets, uso alto, contrato longo",0.01862629514561229,OOF treino com busca interna,Baixa,0,52.84,Monitoramento exploratório
+GS-0696,"G6 poucos tickets, uso alto, contrato longo",0.01808812004713432,OOF treino com busca interna,Baixa,0,34.93,Monitoramento exploratório
+GS-0361,"G6 poucos tickets, uso alto, contrato longo",0.018002958740391976,OOF treino com busca interna,Baixa,0,37.06,Monitoramento exploratório
+GS-0818,"G6 poucos tickets, uso alto, contrato longo",0.01798376976578257,OOF treino com busca interna,Baixa,0,32.94,Monitoramento exploratório
+GS-0128,"G6 poucos tickets, uso alto, contrato longo",0.01795086443020638,Teste reservado,Baixa,0,35.19,Monitoramento exploratório
+GS-0402,"G6 poucos tickets, uso alto, contrato longo",0.01795086443020638,Teste reservado,Baixa,0,52.65,Monitoramento exploratório
+GS-0340,"G6 poucos tickets, uso alto, contrato longo",0.01795086443020638,Teste reservado,Baixa,0,48.38,Monitoramento exploratório
+GS-0158,"G6 poucos tickets, uso alto, contrato longo",0.017905925693606016,OOF treino com busca interna,Baixa,0,43.12,Monitoramento exploratório
+GS-0560,"G6 poucos tickets, uso alto, contrato longo",0.017876205168766326,Teste reservado,Baixa,0,32.07,Monitoramento exploratório
+GS-0697,"G6 poucos tickets, uso alto, contrato longo",0.017707780222735125,Teste reservado,Baixa,0,31.0,Monitoramento exploratório
+GS-0731,"G6 poucos tickets, uso alto, contrato longo",0.017645376436893512,Teste reservado,Baixa,0,39.14,Monitoramento exploratório
+GS-0549,"G6 poucos tickets, uso alto, contrato longo",0.01758086923325063,OOF treino com busca interna,Baixa,0,50.47,Monitoramento exploratório
+GS-0156,"G6 poucos tickets, uso alto, contrato longo",0.01745990236118834,OOF treino com busca interna,Baixa,0,43.5,Monitoramento exploratório
+GS-0687,"G5 poucos tickets, uso baixo, contrato curto",0.01743585110520451,OOF treino com busca interna,Baixa,0,34.99,Monitoramento exploratório
+GS-0096,"G5 poucos tickets, uso baixo, contrato curto",0.017412776978451217,OOF treino com busca interna,Baixa,0,34.48,Monitoramento exploratório
+GS-0307,"G6 poucos tickets, uso alto, contrato longo",0.017331298646632545,OOF treino com busca interna,Baixa,0,58.22,Monitoramento exploratório
+GS-0807,"G6 poucos tickets, uso alto, contrato longo",0.017331298646632545,OOF treino com busca interna,Baixa,0,58.57,Monitoramento exploratório
+GS-0537,"G4 poucos tickets, uso baixo, contrato longo",0.01731578511625477,OOF treino com busca interna,Baixa,0,53.03,Monitoramento exploratório
+GS-0940,"G5 poucos tickets, uso baixo, contrato curto",0.01730793373829579,OOF treino com busca interna,Baixa,0,52.56,Monitoramento exploratório
+GS-0050,"G5 poucos tickets, uso baixo, contrato curto",0.017191529415807413,Teste reservado,Baixa,0,53.72,Monitoramento exploratório
+GS-0915,"G4 poucos tickets, uso baixo, contrato longo",0.01706060670392774,OOF treino com busca interna,Baixa,0,43.86,Monitoramento exploratório
+GS-0670,"G6 poucos tickets, uso alto, contrato longo",0.016966813200583873,Teste reservado,Baixa,0,56.02,Monitoramento exploratório
+GS-0476,"G6 poucos tickets, uso alto, contrato longo",0.016961731654197336,OOF treino com busca interna,Baixa,0,40.16,Monitoramento exploratório
+GS-0189,"G5 poucos tickets, uso baixo, contrato curto",0.01688928439775562,OOF treino com busca interna,Baixa,1,49.94,Monitoramento exploratório
+GS-0510,"G6 poucos tickets, uso alto, contrato longo",0.016526907579366073,OOF treino com busca interna,Baixa,0,36.52,Monitoramento exploratório
+GS-0356,"G4 poucos tickets, uso baixo, contrato longo",0.01647558033609452,OOF treino com busca interna,Baixa,0,59.42,Monitoramento exploratório
+GS-0622,"G6 poucos tickets, uso alto, contrato longo",0.016459432169998362,OOF treino com busca interna,Baixa,0,53.59,Monitoramento exploratório
+GS-0116,"G5 poucos tickets, uso baixo, contrato curto",0.01633055213077074,Teste reservado,Baixa,0,30.04,Monitoramento exploratório
+GS-0487,"G6 poucos tickets, uso alto, contrato longo",0.016211945126304483,Teste reservado,Baixa,0,40.28,Monitoramento exploratório
+GS-0721,"G6 poucos tickets, uso alto, contrato longo",0.016152986000906883,OOF treino com busca interna,Baixa,0,30.05,Monitoramento exploratório
+GS-0417,"G5 poucos tickets, uso baixo, contrato curto",0.015861161721139747,OOF treino com busca interna,Baixa,0,55.76,Monitoramento exploratório
+GS-0298,"G6 poucos tickets, uso alto, contrato longo",0.015810568548569565,OOF treino com busca interna,Baixa,0,51.87,Monitoramento exploratório
+GS-0194,"G6 poucos tickets, uso alto, contrato longo",0.01580117443694231,OOF treino com busca interna,Baixa,0,32.47,Monitoramento exploratório
+GS-0176,"G6 poucos tickets, uso alto, contrato longo",0.015621800254889804,OOF treino com busca interna,Baixa,0,50.06,Monitoramento exploratório
+GS-0057,"G6 poucos tickets, uso alto, contrato longo",0.015344029044091394,OOF treino com busca interna,Baixa,0,37.35,Monitoramento exploratório
+GS-0919,"G6 poucos tickets, uso alto, contrato longo",0.015344029044091394,OOF treino com busca interna,Baixa,0,35.16,Monitoramento exploratório
+GS-0949,"G5 poucos tickets, uso baixo, contrato curto",0.015311589726979978,OOF treino com busca interna,Baixa,0,32.53,Monitoramento exploratório
+GS-0441,"G6 poucos tickets, uso alto, contrato longo",0.015199891326193237,Teste reservado,Baixa,0,53.82,Monitoramento exploratório
+GS-0648,"G5 poucos tickets, uso baixo, contrato curto",0.01512488194004363,Teste reservado,Baixa,0,51.66,Monitoramento exploratório
+GS-0399,"G6 poucos tickets, uso alto, contrato longo",0.01503090192263144,Teste reservado,Baixa,0,59.75,Monitoramento exploratório
+GS-0257,"G6 poucos tickets, uso alto, contrato longo",0.01495972783524265,Teste reservado,Baixa,0,37.26,Monitoramento exploratório
+GS-0579,"G6 poucos tickets, uso alto, contrato longo",0.01464627583089523,Teste reservado,Baixa,0,39.69,Monitoramento exploratório
+GS-0411,"G6 poucos tickets, uso alto, contrato longo",0.014600583584562536,OOF treino com busca interna,Baixa,0,32.64,Monitoramento exploratório
+GS-0218,"G6 poucos tickets, uso alto, contrato longo",0.014546753660835866,OOF treino com busca interna,Baixa,0,53.9,Monitoramento exploratório
+GS-0160,"G5 poucos tickets, uso baixo, contrato curto",0.014476394192031325,Teste reservado,Baixa,0,46.69,Monitoramento exploratório
+GS-0500,"G6 poucos tickets, uso alto, contrato longo",0.014063897858024515,Teste reservado,Baixa,0,53.01,Monitoramento exploratório
+GS-0455,"G6 poucos tickets, uso alto, contrato longo",0.013818343712570198,OOF treino com busca interna,Baixa,0,54.67,Monitoramento exploratório
+GS-0346,"G6 poucos tickets, uso alto, contrato longo",0.013686179450186374,Teste reservado,Baixa,0,45.77,Monitoramento exploratório
+GS-0088,"G6 poucos tickets, uso alto, contrato longo",0.013558437077497647,OOF treino com busca interna,Baixa,0,48.24,Monitoramento exploratório
+GS-0113,"G6 poucos tickets, uso alto, contrato longo",0.013536153359745055,Teste reservado,Baixa,0,31.54,Monitoramento exploratório
+GS-0102,"G6 poucos tickets, uso alto, contrato longo",0.013441702223702645,OOF treino com busca interna,Baixa,0,57.67,Monitoramento exploratório
+GS-0932,"G6 poucos tickets, uso alto, contrato longo",0.01334234902231626,OOF treino com busca interna,Baixa,0,34.47,Monitoramento exploratório
+GS-0785,"G6 poucos tickets, uso alto, contrato longo",0.013296912235788593,Teste reservado,Baixa,0,37.03,Monitoramento exploratório
+GS-0950,"G6 poucos tickets, uso alto, contrato longo",0.01316713527413237,OOF treino com busca interna,Baixa,0,58.01,Monitoramento exploratório
+GS-0456,"G6 poucos tickets, uso alto, contrato longo",0.013153504621560693,OOF treino com busca interna,Baixa,0,33.77,Monitoramento exploratório
+GS-0254,"G6 poucos tickets, uso alto, contrato longo",0.013015181894212493,OOF treino com busca interna,Baixa,0,52.04,Monitoramento exploratório
+GS-0310,"G6 poucos tickets, uso alto, contrato longo",0.012961017784554383,OOF treino com busca interna,Baixa,0,57.66,Monitoramento exploratório
+GS-0752,"G6 poucos tickets, uso alto, contrato longo",0.012799462470643638,OOF treino com busca interna,Baixa,0,50.2,Monitoramento exploratório
+GS-0362,"G6 poucos tickets, uso alto, contrato longo",0.012629545871152333,OOF treino com busca interna,Baixa,0,33.21,Monitoramento exploratório
+GS-0975,"G6 poucos tickets, uso alto, contrato longo",0.012570260000205433,Teste reservado,Baixa,0,40.28,Monitoramento exploratório
+GS-0963,"G5 poucos tickets, uso baixo, contrato curto",0.01252825961383031,OOF treino com busca interna,Baixa,0,33.39,Monitoramento exploratório
+GS-0112,"G6 poucos tickets, uso alto, contrato longo",0.012487431177076612,Teste reservado,Baixa,0,41.87,Monitoramento exploratório
+GS-0291,"G6 poucos tickets, uso alto, contrato longo",0.012470530034289488,Teste reservado,Baixa,0,57.42,Monitoramento exploratório
+GS-0959,"G6 poucos tickets, uso alto, contrato longo",0.011973614678871836,Teste reservado,Baixa,0,59.66,Monitoramento exploratório
+GS-0719,"G6 poucos tickets, uso alto, contrato longo",0.011861403649525775,OOF treino com busca interna,Baixa,0,59.5,Monitoramento exploratório
+GS-0210,"G6 poucos tickets, uso alto, contrato longo",0.01159612731754034,OOF treino com busca interna,Baixa,0,42.98,Monitoramento exploratório
+GS-0466,"G6 poucos tickets, uso alto, contrato longo",0.011323454688896806,OOF treino com busca interna,Baixa,0,59.34,Monitoramento exploratório
+GS-0433,"G6 poucos tickets, uso alto, contrato longo",0.01113048463732269,OOF treino com busca interna,Baixa,0,44.32,Monitoramento exploratório
+GS-0513,"G5 poucos tickets, uso baixo, contrato curto",0.011082663115691201,OOF treino com busca interna,Baixa,0,49.54,Monitoramento exploratório
+GS-0022,"G6 poucos tickets, uso alto, contrato longo",0.01091584894487048,OOF treino com busca interna,Baixa,0,53.76,Monitoramento exploratório
+GS-0707,"G6 poucos tickets, uso alto, contrato longo",0.010793786298458308,OOF treino com busca interna,Baixa,0,37.99,Monitoramento exploratório
+GS-0788,"G6 poucos tickets, uso alto, contrato longo",0.009433043819294462,OOF treino com busca interna,Baixa,0,32.1,Monitoramento exploratório
+GS-0933,"G6 poucos tickets, uso alto, contrato longo",0.00905894575313698,OOF treino com busca interna,Baixa,0,59.67,Monitoramento exploratório
+GS-0925,"G6 poucos tickets, uso alto, contrato longo",0.008637412228584895,OOF treino com busca interna,Baixa,0,52.58,Monitoramento exploratório
+GS-0799,"G6 poucos tickets, uso alto, contrato longo",0.008499605596883649,OOF treino com busca interna,Baixa,0,41.31,Monitoramento exploratório
+GS-0519,"G6 poucos tickets, uso alto, contrato longo",0.008499605596883649,OOF treino com busca interna,Baixa,0,42.49,Monitoramento exploratório
+GS-0024,"G6 poucos tickets, uso alto, contrato longo",0.008397611972502803,OOF treino com busca interna,Baixa,0,34.81,Monitoramento exploratório
+GS-0043,"G6 poucos tickets, uso alto, contrato longo",0.008342804268167638,OOF treino com busca interna,Baixa,0,57.09,Monitoramento exploratório
+GS-0256,"G6 poucos tickets, uso alto, contrato longo",0.008142902572858681,OOF treino com busca interna,Baixa,0,47.99,Monitoramento exploratório
+GS-0490,"G6 poucos tickets, uso alto, contrato longo",0.007992628680678581,OOF treino com busca interna,Baixa,0,56.05,Monitoramento exploratório

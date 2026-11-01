@@ -1,0 +1,18 @@
+{
+  "particoes_sem_intersecao": true,
+  "id_e_alvo_excluidos": true,
+  "segmentacao_aprendeu_800": true,
+  "pca_aprendeu_800": true,
+  "segmentacao_aceita_ausentes": true,
+  "eda_aceita_inteiro_ausente": true,
+  "classificador_aceita_ausentes_e_categoria_nova": true,
+  "metricas_conhecidas": true,
+  "matriz_soma_teste": true,
+  "limiar_minimiza_grade": true,
+  "perfis_usam_treino": true,
+  "lista_identifica_origem": true,
+  "personas_com_nomes_unicos": true,
+  "categorias_com_grafia_original": true,
+  "custo_exemplo_conhecido": true,
+  "custo_rejeita_mensalidade_ausente": true
+}

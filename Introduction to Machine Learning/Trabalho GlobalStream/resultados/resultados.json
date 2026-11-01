@@ -1,0 +1,735 @@
+{
+  "auditoria": {
+    "linhas": 1000,
+    "colunas": 9,
+    "ausentes": 0,
+    "duplicatas": 0,
+    "ids_repetidos": 0,
+    "fora_dominio": 0,
+    "variantes_texto": 0
+  },
+  "fonte": {
+    "arquivo": "globalstream_data.xlsx",
+    "sha256": "cc5b83417dbc4a2a50363fa44f4eff4841b35d693cb608e94366a6ec914ced90",
+    "linhas": 1000,
+    "colunas": 9
+  },
+  "taxa_churn_base": 0.542,
+  "inconsistencias": {
+    "acima_36": 187,
+    "pct_acima_36": 0.23375,
+    "max_meses": 47,
+    "medias_plano": {
+      "Basico": 45.11,
+      "Premium": 45.89,
+      "Standard": 44.34
+    },
+    "p_kruskal": 0.10278089799301143
+  },
+  "outliers": {
+    "iqr": 0,
+    "z": 0
+  },
+  "taxa_churn": 0.5425,
+  "n_clientes": 800,
+  "n_churn": 434,
+  "taxas_num": {
+    "Tickets_Suporte": {
+      "0": 0.0,
+      "1": 0.044,
+      "2": 0.173,
+      "3": 0.319,
+      "4": 0.45,
+      "5": 0.702,
+      "6": 0.915,
+      "7": 0.964,
+      "8": 1.0,
+      "9": 1.0
+    },
+    "Frequencia_Acesso_Semanal": {
+      "0": 0.8,
+      "1": 0.67,
+      "2": 0.596,
+      "3": 0.629,
+      "4": 0.514,
+      "5": 0.483,
+      "6": 0.34,
+      "7": 0.296
+    },
+    "Meses_Contrato": {
+      "1–12": 0.595,
+      "13–24": 0.56,
+      "25–36": 0.491,
+      "37–47": 0.529
+    },
+    "Valor_Mensal": {
+      "30–36": 0.525,
+      "36–42": 0.606,
+      "42–48": 0.569,
+      "48–54": 0.55,
+      "54–60": 0.462
+    }
+  },
+  "chi2": {
+    "Plano": 0.1921,
+    "Genero_Favorito": 0.0287,
+    "Dispositivo_Principal": 0.2245
+  },
+  "corr_alvo": {
+    "Meses_Contrato": -0.06,
+    "Valor_Mensal": -0.059,
+    "Frequencia_Acesso_Semanal": -0.309,
+    "Tickets_Suporte": 0.754
+  },
+  "seg_alternativas": {
+    "Comportamento (3 variáveis)": 0.2933544165024577,
+    "Comportamento + mensalidade": 0.21952455846457652,
+    "Comportamento + mensalidade + categóricas": 0.12192068721852166
+  },
+  "k": 6,
+  "tab_k": [
+    {
+      "k": 2,
+      "inércia": 1792.335,
+      "silhouette": 0.245,
+      "Davies-Bouldin": 1.629,
+      "estabilidade (ARI)": 0.273
+    },
+    {
+      "k": 3,
+      "inércia": 1403.582,
+      "silhouette": 0.252,
+      "Davies-Bouldin": 1.31,
+      "estabilidade (ARI)": 0.51
+    },
+    {
+      "k": 4,
+      "inércia": 1124.624,
+      "silhouette": 0.269,
+      "Davies-Bouldin": 1.169,
+      "estabilidade (ARI)": 0.458
+    },
+    {
+      "k": 5,
+      "inércia": 940.816,
+      "silhouette": 0.272,
+      "Davies-Bouldin": 1.068,
+      "estabilidade (ARI)": 0.482
+    },
+    {
+      "k": 6,
+      "inércia": 776.437,
+      "silhouette": 0.293,
+      "Davies-Bouldin": 0.994,
+      "estabilidade (ARI)": 0.722
+    },
+    {
+      "k": 7,
+      "inércia": 674.708,
+      "silhouette": 0.292,
+      "Davies-Bouldin": 0.993,
+      "estabilidade (ARI)": 0.754
+    },
+    {
+      "k": 8,
+      "inércia": 600.027,
+      "silhouette": 0.28,
+      "Davies-Bouldin": 1.0,
+      "estabilidade (ARI)": 0.81
+    }
+  ],
+  "personas": [
+    {
+      "Persona": "G1 muitos tickets, uso baixo, contrato curto",
+      "clientes": 127,
+      "acessos_semana": 1.2992,
+      "tickets": 7.0394,
+      "meses_contrato": 14.5118,
+      "mensalidade": 43.9311,
+      "taxa_churn": 1.0,
+      "genero_mais_comum": "Documentarios",
+      "dispositivo_mais_comum": "Web",
+      "plano_mais_comum": "Standard",
+      "clientes_teste": 29,
+      "proporcao_treino": 0.1588,
+      "ação sugerida": "Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver"
+    },
+    {
+      "Persona": "G2 muitos tickets, uso baixo, contrato longo",
+      "clientes": 132,
+      "acessos_semana": 3.4091,
+      "tickets": 7.197,
+      "meses_contrato": 37.6515,
+      "mensalidade": 44.4752,
+      "taxa_churn": 0.9697,
+      "genero_mais_comum": "Documentarios",
+      "dispositivo_mais_comum": "Web",
+      "plano_mais_comum": "Standard",
+      "clientes_teste": 40,
+      "proporcao_treino": 0.165,
+      "ação sugerida": "Recuperação pelo suporte: contato proativo para resolver chamados e entender o motivo; oferta só após resolver"
+    },
+    {
+      "Persona": "G3 muitos tickets, uso alto, contrato curto",
+      "clientes": 124,
+      "acessos_semana": 5.629,
+      "tickets": 6.2339,
+      "meses_contrato": 12.2016,
+      "mensalidade": 45.233,
+      "taxa_churn": 0.7258,
+      "genero_mais_comum": "Desporto",
+      "dispositivo_mais_comum": "Mobile",
+      "plano_mais_comum": "Basico",
+      "clientes_teste": 36,
+      "proporcao_treino": 0.155,
+      "ação sugerida": "Suporte técnico prioritário: corrigir falhas de app/dispositivo e acompanhar o cliente após o chamado"
+    },
+    {
+      "Persona": "G4 poucos tickets, uso baixo, contrato longo",
+      "clientes": 131,
+      "acessos_semana": 1.6947,
+      "tickets": 2.145,
+      "meses_contrato": 36.771,
+      "mensalidade": 45.6505,
+      "taxa_churn": 0.3664,
+      "genero_mais_comum": "Filmes",
+      "dispositivo_mais_comum": "Smart TV",
+      "plano_mais_comum": "Premium",
+      "clientes_teste": 21,
+      "proporcao_treino": 0.1638,
+      "ação sugerida": "Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos"
+    },
+    {
+      "Persona": "G5 poucos tickets, uso baixo, contrato curto",
+      "clientes": 116,
+      "acessos_semana": 2.1552,
+      "tickets": 1.6466,
+      "meses_contrato": 11.4483,
+      "mensalidade": 46.3078,
+      "taxa_churn": 0.2759,
+      "genero_mais_comum": "Filmes",
+      "dispositivo_mais_comum": "Smart TV",
+      "plano_mais_comum": "Premium",
+      "clientes_teste": 32,
+      "proporcao_treino": 0.145,
+      "ação sugerida": "Reengajamento: recomendações pelo gênero favorito e avisos de lançamentos"
+    },
+    {
+      "Persona": "G6 poucos tickets, uso alto, contrato longo",
+      "clientes": 170,
+      "acessos_semana": 5.8294,
+      "tickets": 2.4059,
+      "meses_contrato": 29.2647,
+      "mensalidade": 45.1732,
+      "taxa_churn": 0.0529,
+      "genero_mais_comum": "Desporto",
+      "dispositivo_mais_comum": "Web",
+      "plano_mais_comum": "Basico",
+      "clientes_teste": 42,
+      "proporcao_treino": 0.2125,
+      "ação sugerida": "Fidelização: benefícios por permanência; evitar desconto genérico (baixo risco)"
+    }
+  ],
+  "silhouette_k": 0.2933544165024577,
+  "ari_k": 0.7217535837403901,
+  "pca_var": [
+    0.35489666946272214,
+    0.33256921522966165,
+    0.3125341153076164
+  ],
+  "pca_var_todas": [
+    0.26687040448315097,
+    0.26022240334994473,
+    0.24932010835644847,
+    0.2235870838104558
+  ],
+  "loadings": {
+    "PC1": {
+      "Frequencia_Acesso_Semanal": -0.35,
+      "Tickets_Suporte": 0.701,
+      "Meses_Contrato": -0.622
+    },
+    "PC2": {
+      "Frequencia_Acesso_Semanal": 0.883,
+      "Tickets_Suporte": 0.024,
+      "Meses_Contrato": -0.47
+    },
+    "PC3": {
+      "Frequencia_Acesso_Semanal": 0.314,
+      "Tickets_Suporte": 0.713,
+      "Meses_Contrato": 0.627
+    }
+  },
+  "p_genero_persona": 0.3469638638397196,
+  "p_disp_persona": 0.18886927658332625,
+  "split": {
+    "treino": 800,
+    "teste": 200,
+    "churn_treino": 0.5425,
+    "churn_teste": 0.54
+  },
+  "curva_rf": {
+    "prof": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      14,
+      20
+    ],
+    "treino": [
+      0.9426,
+      0.9632,
+      0.974,
+      0.9822,
+      0.9889,
+      0.9948,
+      0.9998,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "cv": [
+      0.9355,
+      0.9555,
+      0.9613,
+      0.9669,
+      0.9675,
+      0.9697,
+      0.9675,
+      0.9658,
+      0.9642,
+      0.9643
+    ]
+  },
+  "escolhido": "Gradient Boosting",
+  "params_final": {
+    "learning_rate": 0.05,
+    "max_depth": 2,
+    "n_estimators": 100
+  },
+  "tab_cv": [
+    {
+      "modelo": "Dummy (referência)",
+      "AUC treino": 0.5,
+      "AUC CV": 0.5,
+      "AUC CV dp": 0.0,
+      "AP CV": 0.5425,
+      "F1 CV": 0.7034,
+      "Recall CV": 1.0,
+      "Precisão CV": 0.5425,
+      "Acurácia CV": 0.5425,
+      "gap treino−CV": 0.0
+    },
+    {
+      "modelo": "Regressão Logística (referência)",
+      "AUC treino": 0.98,
+      "AUC CV": 0.9774,
+      "AUC CV dp": 0.0098,
+      "AP CV": 0.982,
+      "F1 CV": 0.9153,
+      "Recall CV": 0.9148,
+      "Precisão CV": 0.9184,
+      "Acurácia CV": 0.9088,
+      "gap treino−CV": 0.0026
+    },
+    {
+      "modelo": "k-NN",
+      "AUC treino": 0.9801,
+      "AUC CV": 0.9713,
+      "AUC CV dp": 0.0094,
+      "AP CV": 0.9759,
+      "F1 CV": 0.9164,
+      "Recall CV": 0.9148,
+      "Precisão CV": 0.9201,
+      "Acurácia CV": 0.91,
+      "gap treino−CV": 0.0088
+    },
+    {
+      "modelo": "SVM (RBF)",
+      "AUC treino": 0.9824,
+      "AUC CV": 0.9727,
+      "AUC CV dp": 0.0108,
+      "AP CV": 0.978,
+      "F1 CV": 0.9075,
+      "Recall CV": 0.901,
+      "Precisão CV": 0.9171,
+      "Acurácia CV": 0.9013,
+      "gap treino−CV": 0.0096
+    },
+    {
+      "modelo": "Random Forest",
+      "AUC treino": 0.9915,
+      "AUC CV": 0.9684,
+      "AUC CV dp": 0.0117,
+      "AP CV": 0.9727,
+      "F1 CV": 0.9062,
+      "Recall CV": 0.9055,
+      "Precisão CV": 0.909,
+      "Acurácia CV": 0.8988,
+      "gap treino−CV": 0.0232
+    },
+    {
+      "modelo": "Gradient Boosting",
+      "AUC treino": 0.9819,
+      "AUC CV": 0.9768,
+      "AUC CV dp": 0.0099,
+      "AP CV": 0.9808,
+      "F1 CV": 0.919,
+      "Recall CV": 0.9194,
+      "Precisão CV": 0.9212,
+      "Acurácia CV": 0.9125,
+      "gap treino−CV": 0.0051
+    }
+  ],
+  "limiar": 0.17,
+  "custo_treino": {
+    "t05": 5651.994999999999,
+    "totimo": 2610.1
+  },
+  "sensibilidade": [
+    {
+      "custo FN / custo FP": 1,
+      "limiar teórico 1/(1+razão)": 0.5,
+      "limiar ótimo (treino OOF)": 0.52,
+      "recall": 0.9147,
+      "precisão": 0.9297,
+      "% da base contatada": 0.5337
+    },
+    {
+      "custo FN / custo FP": 2,
+      "limiar teórico 1/(1+razão)": 0.333,
+      "limiar ótimo (treino OOF)": 0.33,
+      "recall": 0.9608,
+      "precisão": 0.8816,
+      "% da base contatada": 0.5913
+    },
+    {
+      "custo FN / custo FP": 4,
+      "limiar teórico 1/(1+razão)": 0.2,
+      "limiar ótimo (treino OOF)": 0.17,
+      "recall": 0.9954,
+      "precisão": 0.8105,
+      "% da base contatada": 0.6662
+    },
+    {
+      "custo FN / custo FP": 6,
+      "limiar teórico 1/(1+razão)": 0.143,
+      "limiar ótimo (treino OOF)": 0.17,
+      "recall": 0.9954,
+      "precisão": 0.8105,
+      "% da base contatada": 0.6662
+    },
+    {
+      "custo FN / custo FP": 10,
+      "limiar teórico 1/(1+razão)": 0.091,
+      "limiar ótimo (treino OOF)": 0.17,
+      "recall": 0.9954,
+      "precisão": 0.8105,
+      "% da base contatada": 0.6662
+    },
+    {
+      "custo FN / custo FP": 20,
+      "limiar teórico 1/(1+razão)": 0.048,
+      "limiar ótimo (treino OOF)": 0.17,
+      "recall": 0.9954,
+      "precisão": 0.8105,
+      "% da base contatada": 0.6662
+    }
+  ],
+  "teste": [
+    {
+      "modelo": "Dummy (referência) · t=0,50",
+      "acurácia": 0.54,
+      "precisão": 0.54,
+      "recall": 1.0,
+      "F1": 0.7013,
+      "ROC AUC": 0.5,
+      "AP": 0.54,
+      "VP": 108,
+      "FP": 92,
+      "FN": 0,
+      "VN": 0
+    },
+    {
+      "modelo": "Regressão Logística (referência) · t=0,50",
+      "acurácia": 0.93,
+      "precisão": 0.9352,
+      "recall": 0.9352,
+      "F1": 0.9352,
+      "ROC AUC": 0.984,
+      "AP": 0.9856,
+      "VP": 101,
+      "FP": 7,
+      "FN": 7,
+      "VN": 85
+    },
+    {
+      "modelo": "k-NN · t=0,50",
+      "acurácia": 0.925,
+      "precisão": 0.9429,
+      "recall": 0.9167,
+      "F1": 0.9296,
+      "ROC AUC": 0.9807,
+      "AP": 0.9825,
+      "VP": 99,
+      "FP": 6,
+      "FN": 9,
+      "VN": 86
+    },
+    {
+      "modelo": "SVM (RBF) · t=0,50",
+      "acurácia": 0.93,
+      "precisão": 0.9352,
+      "recall": 0.9352,
+      "F1": 0.9352,
+      "ROC AUC": 0.9838,
+      "AP": 0.9854,
+      "VP": 101,
+      "FP": 7,
+      "FN": 7,
+      "VN": 85
+    },
+    {
+      "modelo": "Random Forest · t=0,50",
+      "acurácia": 0.93,
+      "precisão": 0.9273,
+      "recall": 0.9444,
+      "F1": 0.9358,
+      "ROC AUC": 0.9756,
+      "AP": 0.9754,
+      "VP": 102,
+      "FP": 8,
+      "FN": 6,
+      "VN": 84
+    },
+    {
+      "modelo": "Gradient Boosting · t=0,50",
+      "acurácia": 0.94,
+      "precisão": 0.9364,
+      "recall": 0.9537,
+      "F1": 0.945,
+      "ROC AUC": 0.9819,
+      "AP": 0.9824,
+      "VP": 103,
+      "FP": 7,
+      "FN": 5,
+      "VN": 85
+    },
+    {
+      "modelo": "Gradient Boosting · t=0,17",
+      "acurácia": 0.895,
+      "precisão": 0.8372,
+      "recall": 1.0,
+      "F1": 0.9114,
+      "ROC AUC": 0.9819,
+      "AP": 0.9824,
+      "VP": 108,
+      "FP": 21,
+      "FN": 0,
+      "VN": 71
+    }
+  ],
+  "teste_05": {
+    "acurácia": 0.94,
+    "precisão": 0.9363636363636364,
+    "recall": 0.9537037037037037,
+    "F1": 0.944954128440367,
+    "ROC AUC": 0.9819343800322061,
+    "AP": 0.9824413142703012,
+    "VP": 103.0,
+    "FP": 7.0,
+    "FN": 5.0,
+    "VN": 85.0
+  },
+  "teste_otimo": {
+    "acurácia": 0.895,
+    "precisão": 0.8372093023255814,
+    "recall": 1.0,
+    "F1": 0.9113924050632911,
+    "ROC AUC": 0.9819343800322061,
+    "AP": 0.9824413142703012,
+    "VP": 108.0,
+    "FP": 21.0,
+    "FN": 0.0,
+    "VN": 71.0
+  },
+  "auc_ic": [
+    0.9633179917533414,
+    0.9943306818870183
+  ],
+  "politicas": [
+    {
+      "política": "Não contatar ninguém",
+      "clientes contatados": 0,
+      "cancelamentos observados identificados": 0,
+      "descontos desnecessários (FP)": 0,
+      "cancelamentos ignorados (FN)": 108,
+      "custo ilustrativo (u.m.)": 14345.01
+    },
+    {
+      "política": "Contatar todos (desconto genérico)",
+      "clientes contatados": 200,
+      "cancelamentos observados identificados": 108,
+      "descontos desnecessários (FP)": 92,
+      "cancelamentos ignorados (FN)": 0,
+      "custo ilustrativo (u.m.)": 2083.46
+    },
+    {
+      "política": "Modelo, limiar 0,50",
+      "clientes contatados": 110,
+      "cancelamentos observados identificados": 103,
+      "descontos desnecessários (FP)": 7,
+      "cancelamentos ignorados (FN)": 5,
+      "custo ilustrativo (u.m.)": 811.9
+    },
+    {
+      "política": "Modelo, limiar 0,17",
+      "clientes contatados": 129,
+      "cancelamentos observados identificados": 108,
+      "descontos desnecessários (FP)": 21,
+      "cancelamentos ignorados (FN)": 0,
+      "custo ilustrativo (u.m.)": 482.32
+    }
+  ],
+  "importancia": {
+    "Plano": -0.0007,
+    "Valor_Mensal": -0.0001,
+    "Genero_Favorito": 0.0,
+    "Dispositivo_Principal": 0.0001,
+    "Meses_Contrato": 0.0006,
+    "Frequencia_Acesso_Semanal": 0.047,
+    "Tickets_Suporte": 0.4425
+  },
+  "cenarios": {
+    "A. Modelo completo (7 variáveis)": 0.9768017349994917,
+    "B. Sem Tickets_Suporte": 0.6808875127283142,
+    "C. Só Tickets + Acessos (Regressão Logística)": 0.9805627990702307,
+    "D. Meses_Contrato truncado em 36": 0.9768334190877062
+  },
+  "seg_vs_modelo": [
+    {
+      "abordagem": "Personas de alto risco (G1, G2, G3)",
+      "contatos": 105,
+      "cancelamentos captados": 92,
+      "recall": 0.8519,
+      "precisão": 0.8762,
+      "custo ilustrativo (u.m.)": 2420.64
+    },
+    {
+      "abordagem": "Modelo: 105 maiores probabilidades",
+      "contatos": 105,
+      "cancelamentos captados": 98,
+      "recall": 0.9074,
+      "precisão": 0.9333,
+      "custo ilustrativo (u.m.)": 1478.165
+    }
+  ],
+  "personas_alvo": [
+    "G1 muitos tickets, uso baixo, contrato curto",
+    "G2 muitos tickets, uso baixo, contrato longo",
+    "G3 muitos tickets, uso alto, contrato curto"
+  ],
+  "equidade": [
+    {
+      "variável": "Dispositivo_Principal",
+      "grupo": "Mobile",
+      "n": 63,
+      "taxa de churn": 0.5873,
+      "FP": 7,
+      "recall": 1.0,
+      "taxa de falso positivo": 0.2692,
+      "precisão": 0.8409
+    },
+    {
+      "variável": "Dispositivo_Principal",
+      "grupo": "Smart TV",
+      "n": 69,
+      "taxa de churn": 0.4928,
+      "FP": 6,
+      "recall": 1.0,
+      "taxa de falso positivo": 0.1714,
+      "precisão": 0.85
+    },
+    {
+      "variável": "Dispositivo_Principal",
+      "grupo": "Web",
+      "n": 68,
+      "taxa de churn": 0.5441,
+      "FP": 8,
+      "recall": 1.0,
+      "taxa de falso positivo": 0.2581,
+      "precisão": 0.8222
+    },
+    {
+      "variável": "Plano",
+      "grupo": "Basico",
+      "n": 66,
+      "taxa de churn": 0.5303,
+      "FP": 8,
+      "recall": 1.0,
+      "taxa de falso positivo": 0.2581,
+      "precisão": 0.814
+    },
+    {
+      "variável": "Plano",
+      "grupo": "Premium",
+      "n": 70,
+      "taxa de churn": 0.5429,
+      "FP": 5,
+      "recall": 1.0,
+      "taxa de falso positivo": 0.1562,
+      "precisão": 0.8837
+    },
+    {
+      "variável": "Plano",
+      "grupo": "Standard",
+      "n": 64,
+      "taxa de churn": 0.5469,
+      "FP": 8,
+      "recall": 1.0,
+      "taxa de falso positivo": 0.2759,
+      "precisão": 0.814
+    }
+  ],
+  "priorizacao": {
+    "natureza": "demonstrativa; dados rotulados; escores não calibrados de treino OOF e teste",
+    "clientes": 1000
+  },
+  "testes": {
+    "particoes_sem_intersecao": true,
+    "id_e_alvo_excluidos": true,
+    "segmentacao_aprendeu_800": true,
+    "pca_aprendeu_800": true,
+    "segmentacao_aceita_ausentes": true,
+    "eda_aceita_inteiro_ausente": true,
+    "classificador_aceita_ausentes_e_categoria_nova": true,
+    "metricas_conhecidas": true,
+    "matriz_soma_teste": true,
+    "limiar_minimiza_grade": true,
+    "perfis_usam_treino": true,
+    "lista_identifica_origem": true,
+    "personas_com_nomes_unicos": true,
+    "categorias_com_grafia_original": true,
+    "custo_exemplo_conhecido": true,
+    "custo_rejeita_mensalidade_ausente": true
+  },
+  "versoes": {
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.8",
+    "scipy": "1.17.0",
+    "openpyxl": "3.1.5"
+  },
+  "ambiente": {
+    "python": "3.12.14",
+    "sistema": "Linux"
+  },
+  "criterio_modelo": "Maior ROC AUC na CV aninhada entre k-NN, SVM, Random Forest e Gradient Boosting",
+  "criterio_limiar": "Menor custo em OOF do treino com busca interna de hiperparâmetros por dobra; família pré-selecionada no treino"
+}
